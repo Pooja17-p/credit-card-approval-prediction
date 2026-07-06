@@ -4,6 +4,7 @@ import pandas as pd
 import numpy as np
 from flask import Flask, render_template, request, redirect, url_for, session, flash, jsonify
 import database
+from datetime import datetime
 
 app = Flask(__name__)
 app.secret_key = 'credit_card_approval_super_secret_key'
