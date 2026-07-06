@@ -1,0 +1,1001 @@
+CODE_GENDER,FLAG_OWN_CAR,FLAG_OWN_REALTY,CNT_CHILDREN,AMT_INCOME_TOTAL,NAME_INCOME_TYPE,NAME_EDUCATION_TYPE,NAME_FAMILY_STATUS,NAME_HOUSING_TYPE,FLAG_WORK_PHONE,FLAG_PHONE,FLAG_EMAIL,OCCUPATION_TYPE,CNT_FAM_MEMBERS,Age,Is_Retired,Years_Employed,Income_Per_Member
+M,Y,Y,1,257500.0,Working,Secondary / secondary special,Married,House / apartment,0,1,0,Managers,3,22.420260095824776,0,1.108829568788501,85833.33333333333
+M,N,Y,0,171500.0,Pensioner,Secondary / secondary special,Married,House / apartment,0,0,1,Unknown,2,26.55441478439425,0,2.0314852840520192,85750.0
+F,Y,Y,0,141500.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Sales staff,2,59.181382614647504,0,33.34154688569473,70750.0
+F,N,Y,2,137500.0,Working,Secondary / secondary special,Civil marriage,House / apartment,0,0,0,Unknown,4,47.61670088980151,0,3.6030116358658453,34375.0
+F,N,Y,0,154500.0,Pensioner,Secondary / secondary special,Married,House / apartment,0,0,0,Laborers,2,36.41341546885695,0,7.266255989048597,77250.0
+M,Y,Y,0,116500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,1,1,0,Laborers,2,36.22724161533196,0,13.672826830937714,58250.0
+F,Y,Y,0,84000.0,Commercial associate,Incomplete higher,Married,Co-op apartment,0,0,0,Sales staff,2,28.0684462696783,0,3.1457905544147846,42000.0
+F,N,Y,0,186500.0,Pensioner,Secondary / secondary special,Married,House / apartment,1,0,0,Unknown,2,52.76386036960986,1,0.0,93250.0
+F,Y,N,1,41500.0,Working,Secondary / secondary special,Married,House / apartment,0,0,1,Secretaries,3,48.577686516084874,0,5.678302532511978,13833.333333333334
+M,N,Y,0,143500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,1,0,Unknown,2,62.5242984257358,0,14.77344284736482,71750.0
+M,Y,Y,0,187500.0,Working,Incomplete higher,Married,House / apartment,0,0,0,Core staff,2,25.95482546201232,0,3.9397672826830936,93750.0
+F,N,Y,0,233000.0,Pensioner,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,2,39.931553730321696,1,0.0,116500.0
+M,N,Y,0,199500.0,State servant,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,2,35.98631074606434,0,13.516769336071183,99750.0
+F,Y,Y,1,146500.0,Pensioner,Secondary / secondary special,Married,House / apartment,1,0,0,Unknown,3,50.26694045174538,1,0.0,48833.333333333336
+M,Y,N,0,101000.0,State servant,Secondary / secondary special,Married,Office apartment,1,0,0,Unknown,2,48.61875427789185,0,2.0698151950718686,50500.0
+F,N,Y,2,216000.0,State servant,Higher education,Married,House / apartment,1,0,0,Core staff,4,48.95003422313484,0,29.412731006160165,54000.0
+F,N,Y,0,138500.0,Commercial associate,Incomplete higher,Married,House / apartment,0,0,0,High skill tech staff,2,30.90485968514716,0,1.270362765229295,69250.0
+F,N,Y,0,109000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,0,0,Core staff,2,38.450376454483234,0,6.789869952087611,54500.0
+F,N,N,0,119000.0,Working,Secondary / secondary special,Married,House / apartment,1,0,0,Unknown,2,40.8952772073922,0,18.349075975359344,59500.0
+F,N,Y,0,290500.0,Commercial associate,Higher education,Separated,House / apartment,0,0,0,Managers,1,52.70362765229295,0,6.795345653661875,290500.0
+F,Y,Y,0,147000.0,Working,Secondary / secondary special,Single / not married,House / apartment,0,0,0,Managers,1,27.145790554414784,0,6.880219028062971,147000.0
+F,Y,Y,0,108000.0,State servant,Secondary / secondary special,Married,House / apartment,0,0,0,Drivers,2,48.97741273100616,0,28.27104722792608,54000.0
+M,Y,Y,0,211000.0,Working,Higher education,Married,House / apartment,1,0,0,Unknown,2,45.686516084873375,0,27.633127994524298,105500.0
+F,N,Y,0,239500.0,Pensioner,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,2,43.419575633128,1,0.0,119750.0
+M,N,N,0,319500.0,Working,Incomplete higher,Civil marriage,House / apartment,0,0,0,Drivers,2,66.98151950718686,0,14.52703627652293,159750.0
+F,N,N,0,100000.0,Working,Higher education,Single / not married,House / apartment,0,1,0,Managers,1,57.42094455852156,0,36.591375770020534,100000.0
+F,N,Y,0,115000.0,Working,Secondary / secondary special,Separated,House / apartment,1,0,0,Unknown,1,21.53867214236824,0,3.36208076659822,115000.0
+F,Y,Y,0,94500.0,Pensioner,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,2,61.72758384668035,1,0.0,47250.0
+F,N,Y,2,129500.0,State servant,Higher education,Married,House / apartment,0,0,0,Drivers,4,41.55783709787816,0,10.417522245037645,32375.0
+M,N,Y,0,95000.0,Working,Higher education,Married,House / apartment,0,0,1,Managers,2,51.52361396303901,0,8.752908966461328,47500.0
+F,Y,N,0,377500.0,Pensioner,Higher education,Married,House / apartment,0,0,0,Core staff,2,34.313483915126625,0,5.215605749486653,188750.0
+M,N,N,1,83000.0,Commercial associate,Secondary / secondary special,Married,Office apartment,0,0,0,Unknown,3,46.718685831622174,0,6.507871321013004,27666.666666666668
+M,N,N,0,257000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Drivers,2,44.75290896646133,0,21.22655715263518,128500.0
+F,Y,Y,0,258000.0,State servant,Higher education,Married,House / apartment,0,1,0,Managers,2,24.993839835728952,0,1.8699520876112252,129000.0
+F,Y,Y,0,104500.0,Working,Higher education,Civil marriage,House / apartment,0,1,0,Laborers,2,59.044490075290895,0,29.95208761122519,52250.0
+M,Y,Y,2,229500.0,Pensioner,Higher education,Married,House / apartment,0,0,1,Unknown,4,57.28952772073922,1,0.0,57375.0
+M,Y,N,0,277000.0,Working,Higher education,Married,House / apartment,0,0,0,Managers,2,27.200547570157426,0,5.535934291581109,138500.0
+M,N,Y,2,199000.0,Working,Higher education,Married,House / apartment,1,0,0,Unknown,4,53.90554414784394,0,30.16016427104723,49750.0
+M,N,Y,0,265000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,1,0,0,Unknown,2,62.51334702258727,0,30.9596167008898,132500.0
+F,N,N,0,311000.0,Pensioner,Higher education,Married,House / apartment,0,0,0,Drivers,2,54.85010266940452,0,2.628336755646817,155500.0
+F,N,Y,0,229000.0,Working,Higher education,Single / not married,House / apartment,0,1,0,Security staff,1,25.02943189596167,0,0.5968514715947981,229000.0
+M,N,Y,1,178000.0,Working,Secondary / secondary special,Civil marriage,House / apartment,0,0,0,Sales staff,3,34.17932922655715,0,14.74880219028063,59333.333333333336
+F,Y,N,0,512000.0,State servant,Higher education,Married,House / apartment,0,0,0,Laborers,2,43.83572895277207,0,3.1184120465434635,256000.0
+F,N,N,0,128500.0,Commercial associate,Secondary / secondary special,Widow,House / apartment,1,0,0,Cooking staff,1,54.16290212183436,0,11.375770020533881,128500.0
+M,Y,N,1,238000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Core staff,3,66.16563997262149,0,0.648870636550308,79333.33333333333
+F,Y,Y,1,86500.0,Pensioner,Secondary / secondary special,Married,House / apartment,0,0,1,Medicine staff,3,39.121149897330596,0,13.949349760438055,28833.333333333332
+M,N,Y,1,255000.0,Working,Secondary / secondary special,Separated,House / apartment,0,1,1,Laborers,2,21.66461327857632,0,0.36413415468856947,127500.0
+M,Y,Y,0,248000.0,Working,Higher education,Civil marriage,House / apartment,0,0,0,Drivers,2,38.99520876112252,0,3.0937713894592744,124000.0
+F,Y,Y,0,166000.0,Working,Secondary / secondary special,Married,House / apartment,1,1,0,Security staff,2,44.580424366872,0,20.870636550308006,83000.0
+F,N,Y,2,48000.0,Pensioner,Secondary / secondary special,Married,Municipal apartment,0,0,1,Unknown,4,34.535249828884325,1,0.0,12000.0
+F,Y,Y,1,213000.0,Working,Secondary / secondary special,Civil marriage,House / apartment,0,0,0,Cleaning staff,3,44.662559890485966,0,23.66324435318275,71000.0
+M,Y,Y,0,47000.0,Working,Secondary / secondary special,Separated,House / apartment,0,0,0,Drivers,1,45.700205338809035,0,27.641341546885695,47000.0
+M,Y,Y,0,147500.0,Working,Secondary / secondary special,Single / not married,House / apartment,1,0,0,Unknown,1,56.48459958932238,0,29.253935660506503,147500.0
+F,Y,Y,1,127000.0,Working,Secondary / secondary special,Single / not married,House / apartment,0,1,0,Unknown,2,49.412731006160165,0,0.8542094455852156,63500.0
+F,N,Y,0,116500.0,Pensioner,Secondary / secondary special,Married,House / apartment,1,1,0,Laborers,2,64.19438740588637,0,20.139630390143736,58250.0
+F,N,Y,0,122500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,0,0,Laborers,2,61.53593429158111,0,13.774127310061601,61250.0
+F,N,N,0,185000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,1,0,Unknown,2,23.370294318959616,0,5.125256673511293,92500.0
+M,N,N,0,204500.0,Pensioner,Secondary / secondary special,Widow,House / apartment,0,0,0,Unknown,1,53.34976043805612,1,0.0,204500.0
+F,N,Y,0,124500.0,Working,Secondary / secondary special,Civil marriage,House / apartment,1,1,0,Drivers,2,56.917180013689254,0,7.728952772073922,62250.0
+F,N,Y,0,918000.0,State servant,Secondary / secondary special,Married,House / apartment,1,1,1,Unknown,2,42.70773442847365,0,14.822724161533197,459000.0
+F,N,N,1,279000.0,Working,Secondary / secondary special,Married,House / apartment,1,0,1,Laborers,3,61.1854893908282,0,35.63586584531143,93000.0
+M,Y,N,1,699000.0,Working,Secondary / secondary special,Civil marriage,House / apartment,1,1,0,Managers,3,40.59958932238193,0,9.6290212183436,233000.0
+F,Y,Y,0,178000.0,Commercial associate,Secondary / secondary special,Separated,House / apartment,0,1,0,Unknown,1,40.643394934976044,0,11.047227926078028,178000.0
+M,N,Y,0,181000.0,Pensioner,Higher education,Single / not married,House / apartment,0,0,0,Unknown,1,57.28952772073922,1,0.0,181000.0
+F,Y,Y,0,262500.0,Working,Secondary / secondary special,Civil marriage,House / apartment,0,1,0,Unknown,2,46.85284052019165,0,16.016427104722794,131250.0
+F,N,N,1,149500.0,State servant,Higher education,Married,House / apartment,0,0,0,Sales staff,3,59.71252566735113,0,19.564681724845997,49833.333333333336
+M,Y,Y,1,55500.0,Working,Secondary / secondary special,Married,With parents,1,0,0,Unknown,3,35.95893223819302,0,3.2580424366872007,18500.0
+F,Y,Y,0,128000.0,Working,Higher education,Married,House / apartment,0,0,0,Laborers,2,22.17659137577002,0,0.7912388774811773,64000.0
+M,N,Y,0,440000.0,Pensioner,Higher education,Married,House / apartment,0,0,0,Unknown,2,53.921971252566735,1,0.0,220000.0
+F,N,N,4,221000.0,Pensioner,Secondary / secondary special,Married,House / apartment,1,0,0,Unknown,6,23.704312114989733,1,0.0,36833.333333333336
+M,N,Y,2,111000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Core staff,4,36.73100616016427,0,0.5722108145106092,27750.0
+F,Y,N,2,194000.0,State servant,Secondary / secondary special,Married,House / apartment,0,1,0,Unknown,4,33.37166324435318,0,9.437371663244353,48500.0
+F,N,Y,2,118500.0,Commercial associate,Higher education,Civil marriage,House / apartment,0,0,0,Unknown,4,32.2217659137577,0,8.112251882272416,29625.0
+F,Y,Y,0,135000.0,Commercial associate,Higher education,Separated,House / apartment,0,1,0,Sales staff,1,25.05407255304586,0,4.862422997946612,135000.0
+F,N,Y,0,275500.0,Working,Secondary / secondary special,Married,House / apartment,1,0,0,Realty agents,2,34.2258726899384,0,15.800136892539356,137750.0
+F,N,Y,0,184000.0,Working,Higher education,Married,House / apartment,0,0,0,Unknown,2,37.086926762491444,0,14.483230663928817,92000.0
+M,Y,Y,0,176000.0,Working,Lower secondary,Married,Rented apartment,0,0,0,Laborers,2,61.52224503764545,0,15.85763175906913,88000.0
+F,Y,Y,0,132500.0,Commercial associate,Higher education,Single / not married,House / apartment,1,0,0,Managers,1,38.050650239561946,0,9.10609171800137,132500.0
+F,N,N,0,155000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,2,57.45653661875428,0,5.193702943189596,77500.0
+F,N,Y,0,193000.0,Working,Secondary / secondary special,Separated,House / apartment,1,1,0,Sales staff,1,55.37850787132101,0,26.069815195071868,193000.0
+M,N,Y,0,268000.0,Commercial associate,Academic degree,Married,House / apartment,0,0,0,Laborers,2,29.90280629705681,0,3.5208761122518824,134000.0
+M,Y,Y,0,193000.0,Working,Secondary / secondary special,Married,House / apartment,0,1,0,Cooking staff,2,33.22108145106092,0,7.3730321697467485,96500.0
+F,Y,N,1,299000.0,Working,Higher education,Married,House / apartment,0,0,0,Managers,3,48.31485284052019,0,13.092402464065708,99666.66666666667
+M,Y,Y,0,129500.0,Working,Secondary / secondary special,Single / not married,House / apartment,0,1,0,Laborers,1,36.0,0,10.581793292265571,129500.0
+M,N,Y,0,298000.0,Commercial associate,Secondary / secondary special,Married,With parents,0,1,0,Core staff,2,43.76728268309377,0,21.27857631759069,149000.0
+F,N,Y,0,129000.0,Working,Incomplete higher,Separated,House / apartment,0,1,0,Managers,1,26.223134839151268,0,2.3764544832306638,129000.0
+F,N,Y,0,168000.0,Working,Secondary / secondary special,Married,With parents,1,0,1,Drivers,2,38.26420260095825,0,11.436002737850787,84000.0
+M,Y,Y,0,147000.0,Commercial associate,Higher education,Married,House / apartment,0,1,1,Security staff,2,44.56125941136208,0,19.211498973305954,73500.0
+F,N,Y,0,258000.0,Working,Secondary / secondary special,Civil marriage,House / apartment,0,0,0,Unknown,2,24.290212183436,0,1.4401095140314852,129000.0
+F,N,Y,0,156500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,1,0,0,Unknown,2,49.96851471594798,0,8.073921971252567,78250.0
+F,N,Y,2,303000.0,Pensioner,Higher education,Separated,House / apartment,0,0,0,Unknown,3,35.61396303901437,1,0.0,101000.0
+F,N,Y,0,305000.0,Pensioner,Secondary / secondary special,Civil marriage,House / apartment,0,1,0,Unknown,2,29.204654346338124,1,0.0,152500.0
+F,Y,N,0,157000.0,Commercial associate,Academic degree,Married,House / apartment,0,0,0,Core staff,2,44.8870636550308,0,21.87542778918549,78500.0
+F,Y,N,0,251000.0,Commercial associate,Higher education,Married,House / apartment,0,0,0,Unknown,2,31.134839151266256,0,7.4661190965092405,125500.0
+F,Y,Y,0,155500.0,Working,Secondary / secondary special,Married,Municipal apartment,0,0,0,Laborers,2,58.13552361396304,0,32.38603696098563,77750.0
+F,Y,Y,0,222000.0,Commercial associate,Secondary / secondary special,Widow,House / apartment,0,0,0,Drivers,1,63.846680355920604,0,11.271731690622861,222000.0
+F,N,Y,0,216500.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,1,0,0,High skill tech staff,1,30.652977412731005,0,6.9897330595482545,216500.0
+M,Y,Y,0,135500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,1,1,0,Sales staff,2,49.20191649555099,0,5.596167008898015,67750.0
+F,N,Y,0,163000.0,Commercial associate,Secondary / secondary special,Married,With parents,0,1,0,High skill tech staff,2,65.02395619438741,0,2.455852156057495,81500.0
+F,N,Y,0,91500.0,Pensioner,Higher education,Married,House / apartment,0,0,0,Unknown,2,36.64613278576318,1,0.0,45750.0
+F,N,Y,0,330500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,1,0,High skill tech staff,2,54.18480492813142,0,13.724845995893224,165250.0
+M,N,N,0,101000.0,Commercial associate,Higher education,Single / not married,House / apartment,0,0,0,Unknown,1,30.310746064339494,0,0.6570841889117043,101000.0
+M,N,Y,0,164000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Core staff,2,65.47296372347706,0,16.76659822039699,82000.0
+M,Y,Y,0,85000.0,Commercial associate,Secondary / secondary special,Single / not married,Municipal apartment,1,0,0,Laborers,1,48.65160848733744,0,15.364818617385353,85000.0
+M,N,Y,1,204500.0,Pensioner,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,3,44.563997262149215,1,0.0,68166.66666666667
+F,Y,Y,0,64000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,0,0,High skill tech staff,2,54.02053388090349,0,28.774811772758383,32000.0
+F,N,N,2,159000.0,Working,Secondary / secondary special,Single / not married,House / apartment,0,1,0,Unknown,3,56.328542094455855,0,29.83436002737851,53000.0
+F,N,N,0,196500.0,Working,Secondary / secondary special,Single / not married,House / apartment,1,0,0,Managers,1,33.40451745379877,0,3.6303901437371664,196500.0
+F,N,Y,1,217000.0,Pensioner,Secondary / secondary special,Single / not married,House / apartment,1,0,0,Unknown,2,42.04243668720055,1,0.0,108500.0
+F,N,Y,0,220500.0,Working,Secondary / secondary special,Civil marriage,House / apartment,0,1,0,Unknown,2,29.812457221081452,0,3.189596167008898,110250.0
+F,Y,Y,0,76000.0,Working,Secondary / secondary special,Civil marriage,House / apartment,0,1,0,Cooking staff,2,33.52498288843258,0,9.49760438056126,38000.0
+M,N,Y,1,80500.0,Pensioner,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,3,44.733744010951405,1,0.0,26833.333333333332
+F,N,Y,0,145000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,1,0,Managers,2,56.82683093771389,0,32.48186173853525,72500.0
+F,Y,Y,0,92500.0,Working,Lower secondary,Married,House / apartment,0,0,0,Sales staff,2,56.610540725530456,0,30.913073237508556,46250.0
+F,N,Y,0,261500.0,Pensioner,Secondary / secondary special,Married,House / apartment,0,1,0,Unknown,2,52.75564681724846,1,0.0,130750.0
+F,N,Y,0,113500.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Core staff,2,31.104722792607802,0,0.15605749486652978,56750.0
+M,N,Y,0,61000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,2,47.44421629021218,0,18.491444216290212,30500.0
+M,N,Y,0,216000.0,Working,Secondary / secondary special,Civil marriage,With parents,0,0,0,Drivers,2,61.10335386721424,0,21.17453798767967,108000.0
+F,Y,Y,2,150000.0,Working,Higher education,Married,House / apartment,1,0,0,Managers,4,41.37166324435318,0,11.422313483915127,37500.0
+F,N,Y,5,131000.0,State servant,Higher education,Single / not married,House / apartment,1,0,1,Medicine staff,6,29.505817932922657,0,3.0417522245037647,21833.333333333332
+M,N,Y,1,82500.0,Pensioner,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,3,55.950718685831625,1,0.0,27500.0
+F,N,N,2,143500.0,Working,Secondary / secondary special,Married,House / apartment,1,1,0,Drivers,4,45.596167008898014,0,20.840520191649556,35875.0
+F,N,N,0,320000.0,Working,Higher education,Civil marriage,House / apartment,0,0,0,Laborers,2,53.99315537303217,0,29.086926762491444,160000.0
+F,N,N,0,105500.0,State servant,Secondary / secondary special,Married,House / apartment,0,1,0,Unknown,2,42.899383983572896,0,20.150581793292265,52750.0
+F,N,N,0,166000.0,Commercial associate,Higher education,Married,House / apartment,1,1,0,Managers,2,25.793292265571527,0,6.633812457221081,83000.0
+F,N,N,0,168500.0,Working,Secondary / secondary special,Single / not married,House / apartment,0,0,0,Unknown,1,39.893223819301845,0,17.404517453798768,168500.0
+F,N,Y,0,252000.0,Pensioner,Secondary / secondary special,Single / not married,House / apartment,0,0,1,Unknown,1,32.43258042436687,1,0.0,252000.0
+F,N,Y,5,99000.0,Working,Higher education,Single / not married,House / apartment,0,0,0,Unknown,6,26.428473648186174,0,6.056125941136208,16500.0
+M,Y,Y,0,121500.0,Pensioner,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,2,35.709787816563995,1,0.0,60750.0
+F,N,Y,0,84000.0,State servant,Secondary / secondary special,Married,House / apartment,0,0,0,Cooking staff,2,38.59000684462697,0,14.431211498973306,42000.0
+M,N,Y,0,288000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,1,0,0,Unknown,2,35.37850787132101,0,4.383299110198494,144000.0
+M,Y,Y,0,322500.0,Working,Incomplete higher,Civil marriage,Municipal apartment,0,0,0,Sales staff,2,45.69199178644764,0,10.699520876112253,161250.0
+F,N,Y,0,182500.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,2,56.440793976728266,0,13.426420260095824,91250.0
+M,N,Y,0,173500.0,State servant,Higher education,Married,House / apartment,0,0,0,Unknown,2,40.98015058179329,0,7.137577002053388,86750.0
+M,Y,Y,0,146000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Drivers,2,63.167693360711844,0,39.5482546201232,73000.0
+F,Y,Y,0,173500.0,Working,Secondary / secondary special,Single / not married,House / apartment,1,1,0,Managers,1,45.97125256673511,0,26.636550308008214,173500.0
+F,N,N,0,87500.0,Working,Secondary / secondary special,Married,House / apartment,0,0,1,Unknown,2,25.779603011635867,0,4.328542094455853,43750.0
+F,N,Y,0,116500.0,Working,Incomplete higher,Married,House / apartment,0,0,0,Medicine staff,2,51.214236824093085,0,4.618754277891855,58250.0
+M,N,Y,3,144500.0,Working,Secondary / secondary special,Civil marriage,House / apartment,0,0,0,Core staff,5,64.98288843258042,0,42.444900752908964,28900.0
+F,N,Y,0,199000.0,Pensioner,Secondary / secondary special,Single / not married,House / apartment,0,0,0,Unknown,1,27.416837782340863,1,0.0,199000.0
+M,N,N,1,375000.0,Working,Higher education,Married,House / apartment,0,0,0,Unknown,3,22.767967145790553,0,0.8240930869267625,125000.0
+F,N,N,1,122500.0,Working,Secondary / secondary special,Widow,House / apartment,1,0,0,Unknown,2,59.950718685831625,0,5.987679671457905,61250.0
+F,N,Y,1,144500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,0,0,Sales staff,3,56.92265571526352,0,22.99794661190965,48166.666666666664
+F,N,N,4,554500.0,Working,Higher education,Separated,House / apartment,0,0,0,Laborers,5,56.94729637234771,0,36.558521560574945,110900.0
+F,N,Y,2,215000.0,Working,Secondary / secondary special,Separated,House / apartment,0,1,0,Laborers,3,54.76522929500342,0,18.535249828884325,71666.66666666667
+F,N,Y,0,119500.0,Working,Higher education,Married,House / apartment,0,0,0,Unknown,2,43.474332648870636,0,5.557837097878165,59750.0
+F,Y,Y,0,140500.0,Commercial associate,Secondary / secondary special,Civil marriage,Municipal apartment,0,0,0,Unknown,2,55.4113620807666,0,30.135523613963038,70250.0
+F,N,Y,0,151000.0,Pensioner,Secondary / secondary special,Widow,House / apartment,1,0,0,Unknown,1,42.77344284736482,1,0.0,151000.0
+M,N,Y,0,109500.0,Working,Secondary / secondary special,Civil marriage,House / apartment,0,0,0,Unknown,2,44.99931553730322,0,23.446954140999317,54750.0
+M,Y,Y,0,167500.0,Commercial associate,Secondary / secondary special,Separated,House / apartment,1,0,0,Unknown,1,27.1129363449692,0,0.9089664613278576,167500.0
+M,N,Y,0,156000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,0,0,Laborers,2,49.582477754962355,0,31.55920602327173,78000.0
+M,Y,Y,3,177500.0,Pensioner,Higher education,Married,Rented apartment,1,1,0,Unknown,5,63.29637234770705,1,0.0,35500.0
+F,Y,Y,1,191500.0,Working,Secondary / secondary special,Single / not married,House / apartment,0,0,0,Laborers,2,41.3388090349076,0,3.058179329226557,95750.0
+M,N,Y,1,146000.0,State servant,Secondary / secondary special,Single / not married,House / apartment,0,0,0,Managers,2,37.93292265571527,0,5.598904859685147,73000.0
+F,Y,Y,0,150500.0,Working,Incomplete higher,Married,House / apartment,1,1,0,Core staff,2,38.587268993839835,0,17.73579739904175,75250.0
+M,Y,Y,1,175500.0,Commercial associate,Higher education,Married,House / apartment,0,1,0,Laborers,3,51.09924709103354,0,9.130732375085557,58500.0
+M,N,Y,1,67000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Managers,3,64.69267624914443,0,39.62765229295003,22333.333333333332
+F,N,Y,0,60500.0,Commercial associate,Secondary / secondary special,Married,Rented apartment,0,0,0,Laborers,2,40.16427104722793,0,8.413415468856947,30250.0
+F,Y,N,0,247000.0,Working,Higher education,Single / not married,House / apartment,1,0,0,Unknown,1,58.70773442847365,0,28.125941136208077,247000.0
+M,N,Y,0,181500.0,Working,Secondary / secondary special,Married,House / apartment,0,1,0,Unknown,2,46.55715263518138,0,24.041067761806982,90750.0
+F,N,Y,0,174000.0,Commercial associate,Higher education,Single / not married,House / apartment,0,1,1,Laborers,1,46.992470910335385,0,5.971252566735113,174000.0
+F,N,Y,0,225500.0,Working,Higher education,Civil marriage,House / apartment,1,0,0,Medicine staff,2,40.35044490075291,0,8.202600958247775,112750.0
+M,N,Y,0,215500.0,Commercial associate,Higher education,Married,House / apartment,0,0,0,High skill tech staff,2,21.66461327857632,0,3.564681724845996,107750.0
+F,N,Y,0,223000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,1,0,0,Unknown,2,29.169062286105408,0,7.121149897330596,111500.0
+F,Y,Y,0,186500.0,Commercial associate,Higher education,Married,House / apartment,1,0,0,Unknown,2,41.52772073921971,0,3.8165639972621492,93250.0
+F,Y,Y,2,135000.0,State servant,Secondary / secondary special,Civil marriage,House / apartment,1,1,0,Laborers,4,67.84941820670774,0,18.8145106091718,33750.0
+F,Y,Y,0,137000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Managers,2,25.21013004791239,0,1.2265571526351813,68500.0
+F,N,N,0,96000.0,Working,Higher education,Civil marriage,House / apartment,0,0,0,High skill tech staff,2,44.5201916495551,0,25.423682409308693,48000.0
+F,N,Y,0,142000.0,Working,Higher education,Single / not married,Municipal apartment,0,0,1,Unknown,1,60.772073921971256,0,42.23134839151266,142000.0
+F,N,Y,0,250500.0,Pensioner,Higher education,Married,House / apartment,1,1,0,Unknown,2,42.76796714579056,1,0.0,125250.0
+F,N,N,0,209000.0,State servant,Higher education,Widow,House / apartment,0,1,0,Unknown,1,44.016427104722794,0,9.158110882956878,209000.0
+F,Y,Y,0,205500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,1,1,0,Laborers,2,34.87200547570158,0,5.300479123887748,102750.0
+M,N,Y,0,175500.0,Pensioner,Higher education,Married,House / apartment,0,1,0,Unknown,2,37.46748802190281,1,0.0,87750.0
+F,N,N,0,69000.0,Pensioner,Secondary / secondary special,Single / not married,House / apartment,0,0,0,Drivers,1,61.1854893908282,0,31.222450376454482,69000.0
+F,Y,Y,0,303500.0,Pensioner,Secondary / secondary special,Separated,House / apartment,0,0,0,Unknown,1,46.88569472963724,1,0.0,303500.0
+M,Y,Y,1,107000.0,Commercial associate,Secondary / secondary special,Married,With parents,0,0,0,Accountants,3,27.835728952772072,0,8.889801505817934,35666.666666666664
+F,N,N,2,46000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Core staff,4,30.26694045174538,0,11.353867214236825,11500.0
+F,N,Y,0,173500.0,Commercial associate,Higher education,Married,With parents,1,1,0,Laborers,2,27.81656399726215,0,1.0266940451745379,86750.0
+F,Y,N,0,91000.0,Working,Secondary / secondary special,Married,House / apartment,0,1,1,Managers,2,65.6208076659822,0,4.183436002737851,45500.0
+M,N,N,0,132000.0,Working,Secondary / secondary special,Civil marriage,House / apartment,0,0,0,Core staff,2,24.227241615331966,0,4.736481861738535,66000.0
+F,N,Y,0,133500.0,Pensioner,Secondary / secondary special,Civil marriage,House / apartment,0,0,0,Unknown,2,45.93018480492813,0,9.163586584531142,66750.0
+F,N,Y,2,253000.0,Commercial associate,Higher education,Married,House / apartment,0,0,0,Low-skill Laborers,4,40.35318275154004,0,15.025325119780971,63250.0
+M,Y,N,0,155500.0,Working,Secondary / secondary special,Married,House / apartment,0,1,0,Unknown,2,64.05749486652978,0,29.765913757700204,77750.0
+F,N,Y,0,317500.0,Working,Higher education,Married,House / apartment,0,0,0,Sales staff,2,40.4435318275154,0,13.760438056125942,158750.0
+F,N,Y,0,152000.0,Pensioner,Secondary / secondary special,Married,With parents,1,0,0,Unknown,2,48.53114305270363,1,0.0,76000.0
+F,N,Y,0,490500.0,Pensioner,Higher education,Married,House / apartment,0,0,0,Unknown,2,56.09034907597536,1,0.0,245250.0
+M,N,Y,0,249000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Managers,2,41.74674880219028,0,18.72689938398357,124500.0
+M,N,Y,0,218500.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,0,0,0,Unknown,1,48.68720054757016,0,7.378507871321013,218500.0
+M,N,Y,1,55500.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,3,36.17796030116359,0,10.261464750171116,18500.0
+F,Y,Y,1,159500.0,Commercial associate,Higher education,Married,House / apartment,0,1,0,Sales staff,3,45.09514031485284,0,25.09240246406571,53166.666666666664
+M,N,Y,0,274500.0,Pensioner,Higher education,Married,House / apartment,1,0,0,Unknown,2,57.270362765229294,1,0.0,137250.0
+M,Y,Y,0,259500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,0,0,Core staff,2,37.54688569472964,0,1.9028062970568105,129750.0
+M,N,N,0,229000.0,Working,Higher education,Married,House / apartment,0,0,0,Cleaning staff,2,54.06981519507187,0,34.332648870636554,114500.0
+M,N,Y,3,283000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,0,0,Core staff,5,57.609856262833674,0,39.37850787132101,56600.0
+F,Y,Y,0,146000.0,Working,Secondary / secondary special,Single / not married,House / apartment,0,0,0,Drivers,1,39.715263518138265,0,19.72347707049966,146000.0
+F,Y,Y,0,437500.0,Working,Higher education,Married,House / apartment,0,0,1,Unknown,2,65.33333333333333,0,1.0677618069815196,218750.0
+F,Y,Y,0,33500.0,Working,Higher education,Married,House / apartment,0,0,0,Laborers,2,63.709787816563995,0,2.236824093086927,16750.0
+M,Y,Y,0,138000.0,Working,Higher education,Civil marriage,House / apartment,0,0,0,Laborers,2,34.379192334017795,0,5.71937029431896,69000.0
+F,Y,Y,0,349000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Managers,2,35.115674195756334,0,3.488021902806297,174500.0
+F,Y,Y,0,176500.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Laborers,2,23.356605065023956,0,4.832306639288158,88250.0
+M,N,Y,1,69500.0,Working,Secondary / secondary special,Married,House / apartment,1,1,0,Drivers,3,32.068446269678304,0,0.5393566050650239,23166.666666666668
+F,N,Y,0,154000.0,Working,Secondary / secondary special,Single / not married,House / apartment,0,0,0,Laborers,1,61.82067077344285,0,40.23545516769336,154000.0
+F,Y,N,0,66500.0,Pensioner,Secondary / secondary special,Married,House / apartment,0,1,0,Unknown,2,42.926762491444215,1,0.0,33250.0
+F,Y,N,0,273500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,1,0,0,Laborers,2,28.8186173853525,0,4.369609856262834,136750.0
+F,Y,Y,0,178500.0,Working,Secondary / secondary special,Single / not married,With parents,1,0,0,Core staff,1,57.24024640657084,0,0.6461327857631759,178500.0
+M,N,N,0,147000.0,Commercial associate,Higher education,Married,House / apartment,0,0,0,Core staff,2,28.024640657084188,0,7.644079397672827,73500.0
+M,N,Y,0,70000.0,Pensioner,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,2,47.00889801505818,1,0.0,35000.0
+M,N,N,1,136500.0,Pensioner,Secondary / secondary special,Widow,House / apartment,1,0,0,Unknown,2,23.43600273785079,1,0.0,68250.0
+F,Y,Y,1,128000.0,Working,Higher education,Single / not married,House / apartment,0,0,0,Managers,2,25.451060917180012,0,4.082135523613963,64000.0
+F,N,Y,0,162000.0,Pensioner,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,2,38.666666666666664,1,0.0,81000.0
+F,Y,Y,0,158500.0,Pensioner,Secondary / secondary special,Married,House / apartment,0,1,0,Unknown,2,32.85694729637235,1,0.0,79250.0
+F,N,Y,1,312000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Accountants,3,37.97672826830938,0,0.5119780971937029,104000.0
+F,N,N,0,63500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,1,1,0,Laborers,2,42.51334702258727,0,6.006844626967831,31750.0
+M,N,Y,0,112000.0,Commercial associate,Lower secondary,Married,Co-op apartment,1,1,0,Core staff,2,53.79329226557152,0,24.829568788501028,56000.0
+M,N,Y,0,187000.0,State servant,Secondary / secondary special,Civil marriage,House / apartment,0,0,0,Unknown,2,66.76796714579055,0,37.08966461327858,93500.0
+F,N,Y,0,137000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,1,0,0,Laborers,2,38.450376454483234,0,11.107460643394935,68500.0
+M,N,Y,0,238000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Laborers,2,63.53456536618754,0,21.059548254620122,119000.0
+F,N,Y,1,127000.0,Pensioner,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,3,57.18822724161533,1,0.0,42333.333333333336
+F,N,Y,0,106500.0,Working,Secondary / secondary special,Married,House / apartment,0,1,1,Core staff,2,66.97878165639973,0,38.450376454483234,53250.0
+M,N,N,0,242500.0,Working,Higher education,Married,House / apartment,0,0,0,Drivers,2,22.986995208761122,0,3.0855578370978782,121250.0
+M,Y,N,0,272000.0,Working,Secondary / secondary special,Married,House / apartment,0,1,0,Unknown,2,51.22518822724162,0,31.742642026009584,136000.0
+F,N,Y,4,216000.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,0,1,0,Unknown,5,61.856262833675565,0,8.752908966461328,43200.0
+F,N,Y,0,120000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Core staff,2,33.541409993155376,0,9.831622176591376,60000.0
+M,N,Y,1,124500.0,Working,Higher education,Civil marriage,House / apartment,0,0,0,Accountants,3,40.58590006844627,0,19.63586584531143,41500.0
+M,N,Y,1,105500.0,Pensioner,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,3,41.67830253251198,1,0.0,35166.666666666664
+F,Y,Y,1,169000.0,Pensioner,Secondary / secondary special,Single / not married,House / apartment,0,0,0,Core staff,2,54.29158110882957,0,19.077344284736483,84500.0
+M,Y,Y,2,137000.0,State servant,Secondary / secondary special,Widow,House / apartment,0,0,0,Medicine staff,3,40.459958932238195,0,8.279260780287474,45666.666666666664
+M,N,Y,1,121000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Core staff,3,48.030116358658454,0,8.372347707049967,40333.333333333336
+F,N,N,0,250500.0,Pensioner,Secondary / secondary special,Married,With parents,1,0,0,Unknown,2,21.190965092402465,1,0.0,125250.0
+F,Y,Y,0,187000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Laborers,2,23.21423682409309,0,3.1485284052019167,93500.0
+F,N,N,0,106500.0,Working,Incomplete higher,Married,House / apartment,1,0,0,Core staff,2,48.80766598220397,0,4.70362765229295,53250.0
+F,N,Y,0,324000.0,Pensioner,Secondary / secondary special,Single / not married,House / apartment,0,0,0,Unknown,1,58.34633812457221,1,0.0,324000.0
+F,N,Y,0,278500.0,State servant,Secondary / secondary special,Married,House / apartment,0,1,0,Unknown,2,60.70362765229295,0,19.08829568788501,139250.0
+M,Y,Y,0,465500.0,Pensioner,Secondary / secondary special,Married,House / apartment,0,1,0,Unknown,2,41.08145106091718,1,0.0,232750.0
+F,N,N,0,178000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,1,1,Drivers,2,61.02395619438741,0,32.7419575633128,89000.0
+F,Y,Y,1,434500.0,Working,Higher education,Married,House / apartment,0,0,0,Core staff,3,32.643394934976044,0,0.999315537303217,144833.33333333334
+M,Y,Y,0,160500.0,Working,Secondary / secondary special,Married,House / apartment,0,1,0,Unknown,2,55.72621492128679,0,9.54962354551677,80250.0
+F,N,Y,0,165000.0,State servant,Secondary / secondary special,Married,House / apartment,0,0,0,Laborers,2,44.01095140314853,0,20.073921971252567,82500.0
+F,N,Y,0,62000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Sales staff,2,21.284052019164957,0,0.8542094455852156,31000.0
+F,N,Y,0,76000.0,Working,Secondary / secondary special,Married,House / apartment,0,1,0,Laborers,2,52.002737850787135,0,7.5893223819301845,38000.0
+M,N,Y,0,79000.0,Working,Secondary / secondary special,Single / not married,House / apartment,0,1,0,Unknown,1,38.83093771389459,0,16.791238877481177,79000.0
+F,Y,Y,0,126500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,1,0,0,Drivers,2,65.12525667351129,0,0.813141683778234,63250.0
+F,Y,Y,1,223000.0,Pensioner,Higher education,Married,House / apartment,0,0,0,Unknown,3,51.82477754962355,1,0.0,74333.33333333333
+F,N,Y,0,210500.0,Pensioner,Secondary / secondary special,Married,With parents,0,0,0,Unknown,2,37.59069130732375,1,0.0,105250.0
+F,N,Y,2,438500.0,Working,Secondary / secondary special,Civil marriage,House / apartment,0,1,0,Laborers,4,53.41820670773443,0,13.401779603011637,109625.0
+F,N,N,1,118000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,3,35.121149897330596,0,12.796714579055442,39333.333333333336
+F,N,N,0,102500.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Laborers,2,36.114989733059545,0,8.235455167693361,51250.0
+F,N,Y,0,470000.0,Working,Secondary / secondary special,Civil marriage,House / apartment,1,1,0,Laborers,2,28.35044490075291,0,6.510609171800137,235000.0
+F,Y,Y,0,81500.0,Commercial associate,Higher education,Separated,House / apartment,0,0,0,High skill tech staff,1,31.041752224503764,0,12.687200547570157,81500.0
+M,N,N,0,279000.0,Working,Secondary / secondary special,Single / not married,House / apartment,1,0,0,Accountants,1,21.99041752224504,0,2.954140999315537,279000.0
+F,Y,N,1,133500.0,Pensioner,Higher education,Married,House / apartment,1,1,0,Unknown,3,49.72210814510609,1,0.0,44500.0
+F,N,N,4,209000.0,Working,Secondary / secondary special,Married,With parents,0,0,0,Laborers,6,55.931553730321696,0,27.159479808350444,34833.333333333336
+F,N,Y,3,109000.0,Pensioner,Secondary / secondary special,Single / not married,House / apartment,0,0,0,Unknown,4,61.40999315537303,0,43.07186858316222,27250.0
+F,N,Y,1,173000.0,Working,Higher education,Married,House / apartment,0,0,0,High skill tech staff,3,51.49623545516769,0,14.143737166324435,57666.666666666664
+F,N,Y,0,176500.0,State servant,Secondary / secondary special,Married,House / apartment,0,0,0,Laborers,2,32.2135523613963,0,3.759069130732375,88250.0
+F,N,Y,0,101000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,2,45.53319644079398,0,9.234770704996578,50500.0
+M,Y,Y,0,301500.0,Commercial associate,Higher education,Married,House / apartment,1,1,0,Unknown,2,40.70088980150582,0,2.1218343600273784,150750.0
+F,N,Y,0,78000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,2,28.577686516084874,0,9.149897330595483,39000.0
+F,N,Y,1,407500.0,State servant,Secondary / secondary special,Married,House / apartment,1,0,0,Unknown,3,63.9233401779603,0,20.42984257357974,135833.33333333334
+M,Y,Y,0,189500.0,Pensioner,Secondary / secondary special,Married,House / apartment,1,0,0,Sales staff,2,63.969883641341546,0,43.559206023271734,94750.0
+F,N,Y,2,120500.0,State servant,Higher education,Single / not married,House / apartment,0,1,0,Laborers,3,58.34907597535934,0,0.5886379192334018,40166.666666666664
+F,N,Y,0,158500.0,Working,Higher education,Separated,House / apartment,0,0,0,Drivers,1,56.55578370978782,0,31.906913073237508,158500.0
+M,N,Y,0,321500.0,Commercial associate,Higher education,Married,With parents,0,1,0,Managers,2,59.285420944558524,0,19.57015742642026,160750.0
+F,N,Y,1,166000.0,Working,Secondary / secondary special,Civil marriage,House / apartment,0,0,0,Laborers,3,66.90212183436003,0,5.724845995893224,55333.333333333336
+F,N,Y,0,34000.0,Working,Higher education,Civil marriage,House / apartment,0,0,0,Unknown,2,22.417522245037645,0,4.060232717316906,17000.0
+F,Y,Y,1,84000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,3,61.37713894592745,0,35.76454483230664,28000.0
+M,N,N,1,224500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,0,0,Sales staff,3,33.67830253251198,0,10.127310061601642,74833.33333333333
+F,N,Y,0,162500.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Core staff,2,38.65845311430527,0,8.733744010951403,81250.0
+F,N,Y,0,321000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,1,0,Laborers,2,53.637234770705,0,28.82135523613963,160500.0
+F,Y,Y,0,215000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,1,1,0,Managers,2,61.270362765229294,0,7.134839151266256,107500.0
+M,Y,Y,0,323500.0,Pensioner,Secondary / secondary special,Married,House / apartment,1,1,0,Unknown,2,64.99657768651609,1,0.0,161750.0
+F,Y,N,0,135000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Core staff,2,50.234086242299796,0,14.439425051334702,67500.0
+M,N,Y,0,240000.0,Working,Secondary / secondary special,Married,House / apartment,1,1,0,Sales staff,2,36.60780287474333,0,15.605749486652977,120000.0
+M,Y,Y,0,135000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,2,29.32511978097194,0,6.770704996577686,67500.0
+F,N,Y,2,204500.0,Working,Higher education,Civil marriage,House / apartment,0,1,0,Managers,4,31.15400410677618,0,3.3648186173853527,51125.0
+F,N,Y,0,145000.0,Working,Secondary / secondary special,Single / not married,House / apartment,0,1,0,Sales staff,1,53.927446954141,0,4.643394934976044,145000.0
+M,Y,Y,0,110500.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Sales staff,2,61.02669404517454,0,5.938398357289528,55250.0
+F,N,Y,0,175000.0,Working,Incomplete higher,Widow,House / apartment,0,1,0,Managers,1,55.98904859685147,0,30.910335386721425,175000.0
+F,Y,Y,1,399000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,1,0,0,Core staff,3,54.332648870636554,0,14.316221765913758,133000.0
+F,N,Y,1,108000.0,State servant,Secondary / secondary special,Married,House / apartment,1,0,1,Laborers,3,21.19917864476386,0,1.9739904175222451,36000.0
+M,N,Y,1,140500.0,Working,Higher education,Married,House / apartment,0,1,1,Sales staff,3,57.46201232032854,0,19.581108829568787,46833.333333333336
+F,Y,N,5,128000.0,Working,Higher education,Married,House / apartment,1,1,0,Laborers,7,31.175906913073238,0,8.227241615331964,18285.714285714286
+M,N,N,0,91500.0,Working,Secondary / secondary special,Civil marriage,House / apartment,0,1,0,Laborers,2,33.8507871321013,0,1.4674880219028064,45750.0
+F,N,N,0,302500.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Sales staff,2,60.03285420944559,0,21.921971252566735,151250.0
+M,N,Y,1,188000.0,Working,Higher education,Married,House / apartment,1,0,0,Laborers,3,51.619438740588635,0,25.642710472279262,62666.666666666664
+F,Y,N,1,275500.0,State servant,Incomplete higher,Married,House / apartment,0,0,0,Cooking staff,3,43.879534565366185,0,11.5564681724846,91833.33333333333
+F,N,Y,0,156500.0,Pensioner,Higher education,Married,House / apartment,1,1,0,Unknown,2,42.44216290212184,0,17.861738535249827,78250.0
+F,Y,Y,0,180500.0,Working,Secondary / secondary special,Single / not married,Municipal apartment,0,1,0,Unknown,1,39.11841204654346,0,16.15605749486653,180500.0
+F,N,Y,1,127000.0,Pensioner,Secondary / secondary special,Widow,House / apartment,0,1,0,Unknown,2,48.884325804243666,1,0.0,63500.0
+M,N,Y,0,167000.0,Working,Secondary / secondary special,Single / not married,House / apartment,0,0,0,Unknown,1,37.82340862422998,0,18.62012320328542,167000.0
+F,N,Y,0,145000.0,Working,Secondary / secondary special,Separated,Municipal apartment,0,0,0,Drivers,1,55.80561259411362,0,16.580424366872005,145000.0
+F,Y,Y,0,108500.0,Working,Secondary / secondary special,Married,House / apartment,0,1,0,Laborers,2,50.431211498973305,0,23.1129363449692,54250.0
+M,Y,N,1,60000.0,Working,Higher education,Widow,House / apartment,0,0,0,Laborers,2,58.70225872689939,0,37.097878165639976,30000.0
+M,N,N,0,269500.0,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,1,0,0,Core staff,2,47.2498288843258,0,14.981519507186858,134750.0
+F,Y,Y,0,75500.0,Working,Secondary / secondary special,Single / not married,House / apartment,0,1,0,Managers,1,41.90280629705681,0,0.8678986995208761,75500.0
+M,N,Y,0,95500.0,Working,Secondary / secondary special,Married,Rented apartment,0,1,0,Laborers,2,61.59069130732375,0,12.032854209445585,47750.0
+F,N,Y,0,69000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,0,0,Laborers,2,43.54551676933607,0,23.27173169062286,34500.0
+F,N,N,1,131000.0,Working,Higher education,Widow,House / apartment,0,1,1,Unknown,2,43.82477754962355,0,4.161533196440794,65500.0
+M,N,Y,0,242000.0,Working,Secondary / secondary special,Married,House / apartment,1,0,0,Managers,2,25.43463381245722,0,2.113620807665982,121000.0
+M,N,N,1,159500.0,Working,Higher education,Single / not married,House / apartment,0,0,0,Unknown,2,32.02190280629706,0,13.971252566735114,79750.0
+M,N,Y,0,396000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Laborers,2,32.271047227926076,0,10.609171800136892,198000.0
+F,Y,Y,0,461000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,1,0,Core staff,2,52.936344969199176,0,10.929500342231348,230500.0
+F,Y,N,1,203000.0,Working,Secondary / secondary special,Civil marriage,House / apartment,1,0,1,Unknown,3,43.096509240246405,0,15.515400410677618,67666.66666666667
+M,Y,N,3,282000.0,Working,Secondary / secondary special,Civil marriage,House / apartment,0,0,0,Managers,5,37.83709787816564,0,6.672142368240931,56400.0
+F,N,Y,0,210000.0,Commercial associate,Higher education,Civil marriage,House / apartment,0,0,0,Laborers,2,57.18275154004107,0,25.83983572895277,105000.0
+F,N,Y,0,215000.0,State servant,Secondary / secondary special,Separated,House / apartment,0,1,0,Cooking staff,1,61.790554414784395,0,13.839835728952773,215000.0
+F,N,Y,0,332500.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,2,22.67214236824093,0,0.15879534565366188,166250.0
+F,N,Y,0,195000.0,Pensioner,Secondary / secondary special,Single / not married,House / apartment,0,0,0,Unknown,1,55.70431211498973,1,0.0,195000.0
+M,N,Y,0,357000.0,Working,Secondary / secondary special,Married,House / apartment,0,1,0,Unknown,2,67.0965092402464,0,2.0451745379876796,178500.0
+F,N,Y,1,86000.0,Working,Secondary / secondary special,Married,House / apartment,1,0,0,Unknown,3,25.73305954825462,0,2.9623545516769334,28666.666666666668
+F,Y,Y,0,272500.0,Working,Incomplete higher,Civil marriage,House / apartment,1,0,0,Core staff,2,30.50513347022587,0,11.044490075290897,136250.0
+F,N,Y,0,128500.0,Pensioner,Secondary / secondary special,Separated,House / apartment,0,0,0,Unknown,1,60.969199178644764,1,0.0,128500.0
+F,Y,Y,0,245000.0,State servant,Secondary / secondary special,Married,House / apartment,0,1,0,Unknown,2,25.333333333333332,0,7.184120465434634,122500.0
+F,Y,N,0,133500.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Sales staff,2,57.42094455852156,0,0.31759069130732376,66750.0
+M,N,Y,2,355000.0,Commercial associate,Higher education,Married,House / apartment,1,1,0,Unknown,4,44.72279260780287,0,13.431895961670088,88750.0
+M,N,N,0,178500.0,Pensioner,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,2,55.78918548939083,1,0.0,89250.0
+F,N,Y,0,164500.0,Pensioner,Secondary / secondary special,Married,House / apartment,1,0,0,Unknown,2,47.84941820670773,1,0.0,82250.0
+F,N,Y,1,56500.0,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,0,0,0,Managers,3,48.95824777549623,0,17.946611909650922,18833.333333333332
+F,Y,Y,0,191000.0,Commercial associate,Higher education,Married,House / apartment,0,0,1,Sales staff,2,24.591375770020534,0,3.060917180013689,95500.0
+F,N,N,0,111500.0,Working,Secondary / secondary special,Married,House / apartment,1,1,0,Sales staff,2,22.253251197809718,0,2.518822724161533,55750.0
+M,Y,Y,0,191500.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,0,1,0,Unknown,1,42.902121834360024,0,21.3305954825462,191500.0
+M,N,Y,1,84000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Laborers,3,61.62628336755647,0,24.27378507871321,28000.0
+F,N,N,0,255500.0,State servant,Secondary / secondary special,Married,House / apartment,0,1,0,Sales staff,2,34.46406570841889,0,15.865845311430528,127750.0
+F,N,Y,0,154500.0,Working,Secondary / secondary special,Single / not married,House / apartment,0,1,0,Laborers,1,60.98015058179329,0,24.459958932238195,154500.0
+F,N,Y,0,89500.0,Working,Secondary / secondary special,Single / not married,House / apartment,0,0,0,Security staff,1,38.46132785763176,0,14.381930184804927,89500.0
+M,N,Y,0,98000.0,Working,Secondary / secondary special,Widow,House / apartment,0,0,0,Unknown,1,21.404517453798768,0,1.0239561943874058,98000.0
+M,N,Y,0,86000.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,0,0,0,Unknown,1,49.87542778918549,0,19.422313483915126,86000.0
+M,N,Y,0,237500.0,Commercial associate,Higher education,Married,House / apartment,0,0,0,Unknown,2,37.76865160848734,0,4.238193018480493,118750.0
+F,N,Y,0,154000.0,Working,Secondary / secondary special,Separated,House / apartment,0,0,0,Sales staff,1,55.950718685831625,0,30.00684462696783,154000.0
+F,N,N,0,204000.0,Pensioner,Secondary / secondary special,Civil marriage,House / apartment,0,0,0,Unknown,2,33.18822724161533,1,0.0,102000.0
+F,N,Y,0,202000.0,Pensioner,Secondary / secondary special,Single / not married,House / apartment,0,0,0,Unknown,1,43.879534565366185,1,0.0,202000.0
+F,Y,N,2,194000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,4,52.04380561259411,0,16.479123887748116,48500.0
+F,N,N,0,64500.0,Working,Secondary / secondary special,Married,House / apartment,0,1,0,Unknown,2,22.809034907597535,0,3.978097193702943,32250.0
+M,Y,N,2,157500.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Managers,4,55.865845311430526,0,32.65160848733744,39375.0
+F,N,Y,0,176000.0,State servant,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,2,54.13552361396304,0,30.926762491444215,88000.0
+M,Y,Y,0,143500.0,Working,Secondary / secondary special,Separated,House / apartment,0,1,0,Unknown,1,29.127994524298426,0,7.657768651608487,143500.0
+M,N,Y,1,242500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,0,0,Laborers,3,53.09514031485284,0,9.204654346338124,80833.33333333333
+F,N,Y,0,199500.0,Working,Higher education,Married,With parents,0,1,1,Laborers,2,55.01984941820671,0,13.935660506502396,99750.0
+F,N,N,1,221000.0,Pensioner,Higher education,Married,House / apartment,1,0,0,Unknown,3,29.56605065023956,1,0.0,73666.66666666667
+M,Y,N,0,170500.0,Pensioner,Lower secondary,Married,House / apartment,0,0,0,Unknown,2,66.78713210130049,1,0.0,85250.0
+M,N,Y,0,171500.0,Working,Secondary / secondary special,Married,With parents,0,0,0,Drivers,2,22.625598904859686,0,3.2361396303901437,85750.0
+M,Y,Y,0,93500.0,Working,Secondary / secondary special,Married,House / apartment,0,0,1,Unknown,2,29.475701574264203,0,2.598220396988364,46750.0
+F,N,Y,0,385000.0,Pensioner,Higher education,Married,House / apartment,0,1,1,Unknown,2,54.74058863791923,1,0.0,192500.0
+M,N,Y,1,87000.0,Working,Secondary / secondary special,Married,House / apartment,0,1,0,Drivers,3,22.154688569472963,0,3.268993839835729,29000.0
+F,N,Y,0,392000.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,1,0,0,Laborers,1,32.766598220396986,0,1.4236824093086926,392000.0
+M,N,Y,0,252000.0,Pensioner,Higher education,Separated,House / apartment,0,1,0,Unknown,1,33.58521560574949,1,0.0,252000.0
+M,N,Y,0,236500.0,Pensioner,Higher education,Married,House / apartment,0,0,0,Unknown,2,52.38329911019849,1,0.0,118250.0
+F,Y,Y,0,184500.0,Working,Secondary / secondary special,Married,House / apartment,0,1,1,Unknown,2,44.8952772073922,0,10.275154004106776,92250.0
+F,N,Y,0,214000.0,Pensioner,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,2,25.218343600273784,1,0.0,107000.0
+M,Y,N,0,247000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,2,39.97809719370294,0,15.006160164271048,123500.0
+M,Y,N,0,111000.0,Working,Secondary / secondary special,Separated,House / apartment,0,0,0,Managers,1,64.19164955509925,0,27.485284052019164,111000.0
+M,N,Y,0,281000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,2,47.73716632443532,0,22.412046543463383,140500.0
+F,N,N,0,312500.0,Working,Secondary / secondary special,Married,House / apartment,0,1,1,Sales staff,2,43.38672142368241,0,19.49349760438056,156250.0
+M,N,N,0,298500.0,Working,Secondary / secondary special,Married,House / apartment,1,1,0,Unknown,2,39.87132101300479,0,15.482546201232033,149250.0
+M,N,Y,0,241500.0,Pensioner,Secondary / secondary special,Married,House / apartment,1,1,1,Unknown,2,52.629705681040384,1,0.0,120750.0
+F,Y,Y,4,422000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Sales staff,6,42.965092402464066,0,12.635181382614647,70333.33333333333
+F,N,N,0,143500.0,Pensioner,Higher education,Married,House / apartment,0,0,0,Unknown,2,32.106776180698155,1,0.0,71750.0
+F,Y,N,0,155000.0,Working,Higher education,Married,House / apartment,0,0,0,Managers,2,25.78781656399726,0,7.663244353182751,77500.0
+F,Y,N,0,169000.0,Working,Secondary / secondary special,Married,House / apartment,0,1,0,Sales staff,2,46.55167693360712,0,12.36413415468857,84500.0
+M,N,Y,0,123500.0,Working,Secondary / secondary special,Civil marriage,House / apartment,1,0,0,Accountants,2,28.05475701574264,0,2.5763175906913074,61750.0
+F,Y,Y,0,280000.0,Working,Higher education,Married,House / apartment,0,1,0,Unknown,2,31.397672826830938,0,3.436002737850787,140000.0
+F,Y,Y,0,121000.0,Working,Secondary / secondary special,Married,House / apartment,1,1,0,Managers,2,38.992470910335385,0,13.248459958932239,60500.0
+M,N,Y,0,111500.0,Commercial associate,Higher education,Married,House / apartment,0,0,0,Private service staff,2,53.111567419575636,0,21.19917864476386,55750.0
+F,N,Y,0,199000.0,Working,Secondary / secondary special,Married,Municipal apartment,1,0,0,Unknown,2,50.30527036276523,0,4.342231348391513,99500.0
+F,N,N,0,169500.0,Working,Secondary / secondary special,Single / not married,House / apartment,0,0,0,Laborers,1,46.00684462696783,0,6.121834360027378,169500.0
+F,Y,N,1,422500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,1,0,0,Unknown,3,35.67419575633128,0,5.859000684462697,140833.33333333334
+F,Y,N,1,68500.0,Commercial associate,Higher education,Separated,House / apartment,0,0,0,Unknown,2,26.54072553045859,0,7.416837782340862,34250.0
+F,N,N,0,109000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,0,0,Managers,2,42.0041067761807,0,14.316221765913758,54500.0
+F,Y,Y,0,148500.0,Working,Secondary / secondary special,Separated,House / apartment,0,1,0,Unknown,1,50.86379192334018,0,2.614647501711157,148500.0
+M,Y,N,0,282000.0,State servant,Secondary / secondary special,Separated,House / apartment,0,1,0,Core staff,1,37.034907597535934,0,14.965092402464066,282000.0
+M,Y,Y,1,296000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Drivers,3,43.70431211498973,0,19.134839151266256,98666.66666666667
+M,N,Y,0,168500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,1,0,0,Drivers,2,49.776865160848736,0,30.570841889117045,84250.0
+F,Y,Y,0,184000.0,Commercial associate,Secondary / secondary special,Widow,House / apartment,0,0,0,Laborers,1,38.08898015058179,0,15.865845311430528,184000.0
+F,Y,N,0,93000.0,Commercial associate,Incomplete higher,Married,House / apartment,0,0,0,Unknown,2,36.41889117043121,0,16.80766598220397,46500.0
+M,Y,N,0,133000.0,Working,Higher education,Married,House / apartment,0,0,0,Managers,2,67.36755646817248,0,4.399726214921286,66500.0
+F,Y,Y,0,189500.0,Pensioner,Secondary / secondary special,Married,Municipal apartment,0,0,0,Unknown,2,22.11088295687885,1,0.0,94750.0
+F,N,N,2,87500.0,Pensioner,Secondary / secondary special,Married,House / apartment,0,0,1,Drivers,4,55.73990417522245,0,11.767282683093772,21875.0
+M,N,N,2,171000.0,Working,Secondary / secondary special,Married,House / apartment,0,1,0,Laborers,4,40.84873374401095,0,12.848733744010952,42750.0
+F,Y,Y,1,98500.0,Working,Secondary / secondary special,Married,House / apartment,1,0,0,Laborers,3,39.162217659137575,0,16.344969199178646,32833.333333333336
+M,Y,Y,1,181500.0,Pensioner,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,3,41.79603011635866,1,0.0,60500.0
+F,N,Y,0,230500.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Laborers,2,26.067077344284737,0,1.7494866529774127,115250.0
+F,N,N,1,102500.0,Working,Secondary / secondary special,Married,House / apartment,0,1,0,Laborers,3,61.07871321013005,0,39.266255989048595,34166.666666666664
+F,N,Y,0,179000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,0,0,Sales staff,2,51.60027378507871,0,25.544147843942504,89500.0
+F,Y,N,0,68000.0,State servant,Secondary / secondary special,Civil marriage,House / apartment,0,0,0,Sales staff,2,50.51882272416153,0,5.683778234086242,34000.0
+M,Y,N,0,84500.0,Commercial associate,Higher education,Married,House / apartment,0,1,0,Laborers,2,52.2984257357974,0,30.910335386721425,42250.0
+M,N,Y,0,244000.0,Working,Secondary / secondary special,Civil marriage,House / apartment,0,0,0,Cooking staff,2,67.60301163586584,0,16.45722108145106,122000.0
+F,N,Y,1,367000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,3,24.290212183436,0,5.026694045174538,122333.33333333333
+F,Y,Y,0,113500.0,Working,Higher education,Separated,House / apartment,0,1,0,Sales staff,1,43.41409993155373,0,20.303901437371664,113500.0
+M,N,Y,0,102000.0,Working,Secondary / secondary special,Civil marriage,House / apartment,0,1,0,Medicine staff,2,35.397672826830934,0,7.452429842573579,51000.0
+F,Y,Y,0,454500.0,Pensioner,Higher education,Married,House / apartment,1,0,0,Unknown,2,24.804928131416837,0,6.250513347022587,227250.0
+F,N,N,0,126500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,0,0,Laborers,2,53.96577686516085,0,33.44284736481862,63250.0
+M,Y,Y,0,99000.0,Working,Higher education,Single / not married,House / apartment,0,0,0,Accountants,1,48.369609856262834,0,12.840520191649555,99000.0
+M,N,Y,0,158000.0,Commercial associate,Higher education,Married,House / apartment,0,0,0,Core staff,2,32.04654346338125,0,6.321697467488022,79000.0
+M,Y,Y,0,85000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Sales staff,2,64.4517453798768,0,16.93908281998631,42500.0
+F,N,Y,0,256000.0,State servant,Secondary / secondary special,Married,Municipal apartment,0,0,0,Sales staff,2,61.60164271047228,0,4.85968514715948,128000.0
+M,Y,Y,0,225500.0,Pensioner,Higher education,Married,House / apartment,0,1,0,Unknown,2,60.20260095824778,1,0.0,112750.0
+F,N,Y,2,152000.0,Working,Secondary / secondary special,Single / not married,Municipal apartment,0,0,0,Unknown,3,64.93086926762491,0,7.663244353182751,50666.666666666664
+F,N,Y,0,514500.0,Pensioner,Higher education,Married,House / apartment,0,0,0,Unknown,2,24.859685147159478,1,0.0,257250.0
+F,N,N,3,346000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,5,52.18343600273785,0,32.90075290896646,69200.0
+F,Y,Y,0,181000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,2,46.04791238877481,0,6.354551676933607,90500.0
+F,N,Y,0,184000.0,Working,Higher education,Single / not married,House / apartment,1,0,0,Unknown,1,37.2539356605065,0,2.5270362765229293,184000.0
+F,N,Y,0,253500.0,State servant,Secondary / secondary special,Married,House / apartment,0,1,0,Laborers,2,65.22108145106091,0,42.42026009582478,126750.0
+F,Y,N,0,152000.0,Pensioner,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,2,52.65160848733744,1,0.0,76000.0
+M,N,Y,1,65500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,1,0,Unknown,3,64.88980150581793,0,2.5598904859685145,21833.333333333332
+F,N,N,0,547500.0,Commercial associate,Higher education,Married,With parents,0,1,0,Unknown,2,63.59753593429158,0,34.80355920602327,273750.0
+F,Y,N,1,81000.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,0,1,0,Sales staff,2,54.78165639972622,0,33.16632443531827,40500.0
+M,N,Y,1,185500.0,Pensioner,Secondary / secondary special,Civil marriage,House / apartment,0,1,0,Unknown,3,61.40999315537303,1,0.0,61833.333333333336
+M,N,Y,0,72500.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Laborers,2,45.9192334017796,0,12.224503764544833,36250.0
+M,Y,Y,2,167500.0,State servant,Secondary / secondary special,Married,House / apartment,0,0,0,Cooking staff,4,47.854893908282,0,29.804243668720055,41875.0
+F,N,Y,1,147000.0,Working,Higher education,Married,House / apartment,1,0,0,Laborers,3,39.49075975359343,0,19.21423682409309,49000.0
+F,Y,N,0,60500.0,Working,Higher education,Married,With parents,0,0,0,Drivers,2,55.383983572895275,0,25.4072553045859,30250.0
+F,N,Y,0,235500.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,1,1,0,Core staff,1,31.107460643394933,0,11.66050650239562,235500.0
+F,Y,Y,0,173000.0,Working,Secondary / secondary special,Separated,House / apartment,0,1,0,Laborers,1,56.10403832991102,0,32.93908281998631,173000.0
+M,N,Y,3,172000.0,Working,Higher education,Married,House / apartment,0,0,0,Core staff,5,63.219712525667354,0,20.317590691307323,34400.0
+F,N,N,0,389500.0,Working,Higher education,Married,Rented apartment,0,0,1,Laborers,2,39.1047227926078,0,14.108145106091717,194750.0
+F,Y,Y,0,134000.0,Pensioner,Higher education,Married,House / apartment,0,0,0,Unknown,2,45.18822724161533,1,0.0,67000.0
+F,N,N,0,226000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Drivers,2,66.11088295687885,0,12.594113620807667,113000.0
+F,Y,Y,0,155500.0,Working,Secondary / secondary special,Married,House / apartment,0,1,0,Unknown,2,65.0485968514716,0,19.67419575633128,77750.0
+F,Y,Y,2,86000.0,Pensioner,Secondary / secondary special,Married,House / apartment,0,1,1,Unknown,4,34.23682409308692,1,0.0,21500.0
+F,N,Y,0,254000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Sales staff,2,58.217659137577,0,19.983572895277206,127000.0
+M,N,Y,0,162000.0,State servant,Secondary / secondary special,Married,House / apartment,0,1,1,Unknown,2,43.77275838466804,0,3.0663928815879533,81000.0
+F,Y,Y,0,78000.0,Working,Secondary / secondary special,Married,House / apartment,1,0,0,Unknown,2,67.20328542094455,0,23.923340177960302,39000.0
+M,N,Y,0,189500.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,2,49.24845995893224,0,9.883641341546886,94750.0
+F,N,Y,0,158500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,0,0,Sales staff,2,50.43668720054757,0,30.127310061601644,79250.0
+F,N,Y,0,143000.0,Working,Higher education,Married,Municipal apartment,0,0,0,Unknown,2,51.08829568788501,0,22.535249828884325,71500.0
+F,N,Y,0,140500.0,Pensioner,Secondary / secondary special,Married,House / apartment,1,1,0,Unknown,2,38.841889117043124,1,0.0,70250.0
+F,N,Y,2,180500.0,Pensioner,Higher education,Civil marriage,House / apartment,0,1,0,Unknown,4,56.26009582477755,1,0.0,45125.0
+F,N,N,0,98500.0,Working,Higher education,Civil marriage,House / apartment,0,0,0,Unknown,2,58.26694045174538,0,0.7419575633127995,49250.0
+F,N,N,0,88000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,0,0,Private service staff,2,42.79808350444901,0,4.531143052703627,44000.0
+M,N,Y,1,96000.0,Working,Secondary / secondary special,Widow,House / apartment,0,1,0,Core staff,2,30.598220396988363,0,1.9822039698836413,48000.0
+F,N,N,0,96500.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Managers,2,57.91375770020534,0,15.370294318959617,48250.0
+F,N,Y,0,49000.0,Commercial associate,Secondary / secondary special,Married,With parents,0,0,0,Unknown,2,40.69267624914442,0,10.855578370978781,24500.0
+F,N,N,0,58500.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Drivers,2,56.42984257357974,0,12.695414099931554,29250.0
+M,N,N,1,417500.0,Commercial associate,Higher education,Married,House / apartment,0,1,0,Laborers,3,34.926762491444215,0,8.071184120465434,139166.66666666666
+M,Y,N,1,261500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,0,0,Sales staff,3,34.17659137577002,0,12.930869267624914,87166.66666666667
+F,N,N,1,213500.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,3,39.93429158110883,0,12.845995893223819,71166.66666666667
+F,N,N,0,166000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Cleaning staff,2,50.74058863791923,0,14.699520876112253,83000.0
+F,N,Y,1,94500.0,Commercial associate,Higher education,Separated,House / apartment,0,1,1,Laborers,2,44.70088980150582,0,18.340862422997947,47250.0
+M,N,Y,0,149000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,2,52.369609856262834,0,32.73921971252567,74500.0
+F,Y,Y,0,125500.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Sales staff,2,48.69815195071869,0,25.637234770704996,62750.0
+F,N,Y,0,119000.0,Working,Higher education,Married,House / apartment,0,1,0,Drivers,2,52.082135523613964,0,22.99247091033539,59500.0
+F,Y,Y,0,80500.0,Pensioner,Higher education,Civil marriage,House / apartment,0,1,0,Unknown,2,37.56605065023956,1,0.0,40250.0
+F,N,N,0,510000.0,State servant,Secondary / secondary special,Single / not married,House / apartment,1,0,0,Core staff,1,40.049281314168375,0,0.5886379192334018,510000.0
+F,Y,Y,0,93000.0,Working,Secondary / secondary special,Married,House / apartment,1,0,0,Security staff,2,42.06707734428473,0,15.783709787816564,46500.0
+F,N,Y,0,430500.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,2,29.218343600273784,0,7.468856947296373,215250.0
+F,N,Y,0,227000.0,Working,Secondary / secondary special,Married,House / apartment,0,1,0,Laborers,2,64.36413415468857,0,33.242984257357975,113500.0
+M,N,Y,0,104500.0,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,0,0,0,Core staff,2,54.83915126625599,0,1.4565366187542779,52250.0
+M,N,Y,0,382000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Sales staff,2,42.72142368240931,0,15.978097193702943,191000.0
+F,Y,Y,0,95500.0,Working,Secondary / secondary special,Married,House / apartment,0,0,1,Laborers,2,38.893908281998634,0,0.6078028747433265,47750.0
+F,Y,Y,0,199500.0,Working,Incomplete higher,Married,House / apartment,1,0,0,Unknown,2,40.284736481861735,0,6.976043805612594,99750.0
+F,N,N,1,336500.0,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,1,0,0,Core staff,3,33.125256673511295,0,5.3990417522245036,112166.66666666667
+F,Y,Y,0,90000.0,Working,Secondary / secondary special,Civil marriage,Office apartment,0,0,0,Managers,2,44.48186173853525,0,15.214236824093087,45000.0
+M,N,Y,0,330000.0,State servant,Secondary / secondary special,Married,Office apartment,0,1,0,Accountants,2,22.72142368240931,0,3.3073237508555784,165000.0
+M,N,N,0,78000.0,State servant,Secondary / secondary special,Separated,House / apartment,1,0,0,Unknown,1,30.45311430527036,0,0.5420944558521561,78000.0
+M,Y,N,0,147500.0,Working,Secondary / secondary special,Single / not married,House / apartment,0,0,0,Unknown,1,34.35728952772074,0,14.954140999315538,147500.0
+F,N,Y,0,53000.0,Commercial associate,Higher education,Civil marriage,House / apartment,0,0,0,Laborers,2,34.42026009582478,0,9.204654346338124,26500.0
+F,N,N,0,160000.0,State servant,Secondary / secondary special,Married,House / apartment,0,0,0,Core staff,2,36.26283367556468,0,14.299794661190965,80000.0
+F,N,N,0,181500.0,Working,Secondary / secondary special,Married,Rented apartment,0,0,0,Core staff,2,28.553045859000683,0,5.522245037645448,90750.0
+F,N,N,0,192000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Drivers,2,40.95824777549623,0,20.50650239561944,96000.0
+F,N,Y,2,142000.0,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,0,0,0,Unknown,4,27.156741957563312,0,8.522929500342231,35500.0
+F,N,N,0,123500.0,Working,Higher education,Married,House / apartment,1,0,0,Medicine staff,2,30.43394934976044,0,1.6865160848733745,61750.0
+M,N,N,0,179500.0,Pensioner,Secondary / secondary special,Single / not married,House / apartment,1,0,0,Unknown,1,35.01984941820671,0,7.846680355920602,179500.0
+F,Y,N,0,161000.0,Working,Secondary / secondary special,Widow,House / apartment,1,0,0,Laborers,1,31.66050650239562,0,8.427104722792608,161000.0
+M,N,Y,0,272000.0,Working,Lower secondary,Married,House / apartment,0,1,0,Unknown,2,51.31553730321698,0,6.447638603696099,136000.0
+F,N,N,0,324000.0,Commercial associate,Higher education,Married,House / apartment,0,0,0,Laborers,2,36.087611225188226,0,1.5277207392197125,162000.0
+M,N,N,0,106000.0,Working,Incomplete higher,Married,House / apartment,0,1,0,Laborers,2,62.46406570841889,0,15.507186858316222,53000.0
+F,N,Y,0,292000.0,Pensioner,Secondary / secondary special,Civil marriage,House / apartment,0,0,0,Unknown,2,39.98904859685147,1,0.0,146000.0
+M,N,Y,4,121000.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,0,1,0,Unknown,5,32.643394934976044,0,11.46611909650924,24200.0
+M,N,N,0,125000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Laborers,2,29.533196440793976,0,9.905544147843942,62500.0
+F,N,Y,0,89500.0,Working,Higher education,Married,House / apartment,1,1,0,Sales staff,2,36.824093086926766,0,14.704996577686517,44750.0
+M,N,N,2,95500.0,Working,Secondary / secondary special,Single / not married,House / apartment,0,0,0,Private service staff,3,58.38740588637919,0,12.720054757015742,31833.333333333332
+M,N,Y,1,90500.0,Working,Secondary / secondary special,Married,House / apartment,1,0,0,High skill tech staff,3,46.90485968514716,0,25.921971252566735,30166.666666666668
+F,N,Y,0,93000.0,Working,Secondary / secondary special,Widow,House / apartment,1,1,0,Laborers,1,25.932922655715263,0,2.620123203285421,93000.0
+F,N,Y,1,323500.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Laborers,3,54.07529089664613,0,23.33744010951403,107833.33333333333
+M,Y,Y,0,180000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,1,Managers,2,54.61738535249829,0,34.87200547570158,90000.0
+M,N,Y,0,129500.0,Working,Higher education,Single / not married,House / apartment,0,0,0,Unknown,1,58.79808350444901,0,0.3942505133470226,129500.0
+F,N,N,0,247500.0,Working,Secondary / secondary special,Married,House / apartment,1,0,0,Managers,2,64.30390143737166,0,30.039698836413415,123750.0
+F,Y,N,0,228000.0,Pensioner,Secondary / secondary special,Separated,House / apartment,0,1,0,Unknown,1,31.76454483230664,1,0.0,228000.0
+F,Y,N,0,201000.0,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,0,0,0,Drivers,2,66.61464750171116,0,28.687200547570157,100500.0
+F,N,N,2,95500.0,Working,Incomplete higher,Married,House / apartment,1,1,0,Core staff,4,63.36208076659822,0,43.01437371663244,23875.0
+F,N,Y,0,280000.0,State servant,Secondary / secondary special,Married,House / apartment,0,1,0,Core staff,2,47.89048596851472,0,29.180013689253936,140000.0
+F,Y,N,1,185000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Core staff,3,66.77618069815195,0,39.20602327173169,61666.666666666664
+F,N,Y,2,115000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,0,0,Private service staff,4,22.075290896646134,0,2.595482546201232,28750.0
+M,N,Y,0,194500.0,Working,Secondary / secondary special,Separated,House / apartment,0,0,0,Drivers,1,66.63381245722108,0,33.79603011635866,194500.0
+M,N,N,0,191000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Managers,2,50.234086242299796,0,0.9089664613278576,95500.0
+F,Y,Y,0,91000.0,State servant,Higher education,Married,House / apartment,0,1,0,Unknown,2,21.127994524298426,0,0.6461327857631759,45500.0
+M,Y,Y,0,178500.0,Working,Secondary / secondary special,Married,House / apartment,0,1,0,Laborers,2,63.969883641341546,0,21.924709103353866,89250.0
+F,N,Y,0,95000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,1,0,0,Drivers,2,45.724845995893226,0,23.616700889801507,47500.0
+F,Y,Y,5,112500.0,Pensioner,Secondary / secondary special,Married,With parents,0,0,0,Unknown,7,39.09924709103354,1,0.0,16071.42857142857
+F,Y,N,1,241000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Core staff,3,39.76728268309377,0,21.062286105407257,80333.33333333333
+F,N,Y,0,164000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,1,0,0,Unknown,2,46.1492128678987,0,16.21902806297057,82000.0
+F,N,Y,2,66000.0,Working,Higher education,Married,House / apartment,0,0,0,Drivers,4,56.56673511293634,0,2.7980835044490076,16500.0
+F,N,Y,0,346000.0,Working,Lower secondary,Married,House / apartment,0,0,0,Private service staff,2,22.16016427104723,0,0.785763175906913,173000.0
+F,Y,N,0,111500.0,Working,Secondary / secondary special,Married,House / apartment,0,1,0,Managers,2,64.88980150581793,0,30.151950718685832,55750.0
+M,N,Y,0,177000.0,Pensioner,Higher education,Single / not married,House / apartment,0,0,0,Unknown,1,48.01916495550992,1,0.0,177000.0
+M,N,Y,2,100500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,4,42.16016427104723,0,9.27857631759069,25125.0
+M,N,Y,0,134500.0,Pensioner,Secondary / secondary special,Married,House / apartment,0,1,0,Managers,2,37.998631074606436,0,13.196440793976729,67250.0
+M,N,Y,0,39000.0,Working,Secondary / secondary special,Civil marriage,House / apartment,0,0,0,Unknown,2,58.41204654346338,0,8.991101984941821,19500.0
+F,N,N,0,245500.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Laborers,2,40.11225188227242,0,3.3045859000684463,122750.0
+F,N,Y,0,73500.0,State servant,Secondary / secondary special,Married,House / apartment,0,0,0,Drivers,2,45.880903490759756,0,15.720739219712526,36750.0
+F,N,Y,0,150500.0,Pensioner,Incomplete higher,Married,House / apartment,0,0,0,Unknown,2,51.84941820670773,1,0.0,75250.0
+M,N,Y,0,86000.0,Working,Secondary / secondary special,Married,House / apartment,0,1,0,Managers,2,57.672826830937716,0,27.852156057494867,43000.0
+F,N,N,0,198500.0,Working,Lower secondary,Single / not married,House / apartment,0,0,1,Core staff,1,45.59342915811088,0,20.205338809034906,198500.0
+M,N,N,1,216500.0,Working,Higher education,Civil marriage,House / apartment,0,1,0,Sales staff,3,65.98220396988364,0,12.991101984941821,72166.66666666667
+F,N,Y,0,70500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,1,0,Core staff,2,50.27789185489391,0,2.217659137577002,35250.0
+F,N,N,0,246000.0,Commercial associate,Higher education,Married,House / apartment,0,1,0,Core staff,2,41.13620807665982,0,20.605065023956193,123000.0
+M,N,Y,0,53000.0,Commercial associate,Higher education,Widow,House / apartment,0,0,0,Sales staff,1,31.156741957563312,0,12.435318275154003,53000.0
+M,N,N,4,40500.0,Working,Higher education,Married,House / apartment,1,0,0,Laborers,6,41.779603011635864,0,6.798083504449007,6750.0
+F,N,Y,1,189000.0,Pensioner,Higher education,Married,House / apartment,0,0,0,Unknown,3,30.90485968514716,1,0.0,63000.0
+F,N,Y,0,257500.0,State servant,Higher education,Widow,House / apartment,0,1,0,Unknown,1,41.828884325804246,0,21.793292265571527,257500.0
+F,N,Y,0,178000.0,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,1,1,0,Medicine staff,2,28.555783709787818,0,2.5626283367556466,89000.0
+F,Y,Y,1,159000.0,Pensioner,Higher education,Single / not married,House / apartment,0,0,0,Unknown,2,25.240246406570844,1,0.0,79500.0
+F,Y,N,0,178500.0,Working,Higher education,Married,House / apartment,0,0,0,Unknown,2,27.63586584531143,0,6.015058179329227,89250.0
+F,N,Y,0,168500.0,Commercial associate,Higher education,Married,House / apartment,0,0,0,Managers,2,54.93223819301848,0,23.55373032169747,84250.0
+M,N,Y,0,185000.0,Working,Secondary / secondary special,Married,House / apartment,0,1,1,Sales staff,2,36.049281314168375,0,2.316221765913758,92500.0
+F,N,Y,0,228500.0,Working,Higher education,Married,House / apartment,0,0,0,Unknown,2,34.75154004106776,0,15.603011635865846,114250.0
+M,N,Y,0,128500.0,Working,Higher education,Civil marriage,House / apartment,0,1,0,Unknown,2,59.26351813826147,0,17.53867214236824,64250.0
+F,N,Y,2,114000.0,Working,Secondary / secondary special,Married,House / apartment,0,1,0,Laborers,4,52.865160848733744,0,34.234086242299796,28500.0
+M,Y,N,0,354000.0,Commercial associate,Lower secondary,Married,With parents,0,0,0,High skill tech staff,2,52.92813141683778,0,5.19917864476386,177000.0
+F,N,Y,4,133500.0,Working,Secondary / secondary special,Married,House / apartment,0,1,0,Unknown,6,28.28473648186174,0,9.801505817932922,22250.0
+F,Y,N,1,219000.0,Working,Higher education,Married,House / apartment,0,0,0,Sales staff,3,45.620807665982205,0,8.191649555099247,73000.0
+M,N,Y,0,90500.0,Pensioner,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,2,43.67419575633128,1,0.0,45250.0
+F,Y,Y,0,122000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,1,Sales staff,2,24.295687885010267,0,1.83709787816564,61000.0
+M,Y,Y,0,474000.0,Commercial associate,Higher education,Single / not married,House / apartment,1,0,0,Sales staff,1,48.39698836413415,0,8.112251882272416,474000.0
+F,N,Y,0,373500.0,Working,Secondary / secondary special,Single / not married,House / apartment,0,0,0,Laborers,1,41.49486652977413,0,9.453798767967145,373500.0
+F,Y,N,0,217000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,0,0,Sales staff,2,45.672826830937716,0,12.202600958247775,108500.0
+F,N,Y,1,231500.0,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,0,0,0,Unknown,3,58.902121834360024,0,26.406570841889117,77166.66666666667
+M,Y,Y,3,40000.0,Working,Secondary / secondary special,Married,House / apartment,0,1,0,Unknown,5,49.672826830937716,0,18.269678302532512,8000.0
+F,N,Y,0,152500.0,Working,Higher education,Married,House / apartment,0,0,1,Laborers,2,41.190965092402465,0,17.68104038329911,76250.0
+M,N,N,1,161000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,0,0,Drivers,3,55.15674195756331,0,9.314168377823409,53666.666666666664
+F,Y,Y,0,76000.0,State servant,Higher education,Married,House / apartment,1,0,0,Unknown,2,44.2217659137577,0,24.692676249144423,38000.0
+F,Y,Y,0,205000.0,Commercial associate,Higher education,Married,House / apartment,0,0,0,Cooking staff,2,61.308692676249144,0,36.42984257357974,102500.0
+F,N,N,0,179000.0,Commercial associate,Secondary / secondary special,Separated,House / apartment,0,0,0,Core staff,1,60.75290896646133,0,17.166324435318277,179000.0
+F,N,N,0,97000.0,Working,Higher education,Single / not married,House / apartment,0,1,0,Unknown,1,32.67624914442163,0,11.838466803559205,97000.0
+F,N,Y,1,287500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,3,51.044490075290895,0,23.98904859685147,95833.33333333333
+F,N,Y,0,106000.0,Working,Secondary / secondary special,Single / not married,House / apartment,0,0,0,Unknown,1,42.247775496235455,0,2.64476386036961,106000.0
+F,N,N,0,79500.0,Pensioner,Secondary / secondary special,Single / not married,House / apartment,0,0,0,Unknown,1,35.55099247091034,1,0.0,79500.0
+F,Y,Y,0,107500.0,Working,Secondary / secondary special,Married,House / apartment,0,1,0,Unknown,2,51.723477070499655,0,25.097878165639973,53750.0
+M,Y,Y,0,179500.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Medicine staff,2,62.88021902806297,0,35.46338124572211,89750.0
+M,Y,Y,0,83500.0,Working,Secondary / secondary special,Married,House / apartment,0,1,0,Unknown,2,27.783709787816566,0,4.435318275154004,41750.0
+F,N,N,0,82500.0,Working,Secondary / secondary special,Single / not married,House / apartment,1,0,0,Sales staff,1,34.8062970568104,0,9.612594113620808,82500.0
+M,N,Y,0,171500.0,Pensioner,Secondary / secondary special,Married,House / apartment,1,0,0,Unknown,2,50.26694045174538,1,0.0,85750.0
+F,N,Y,0,138500.0,Working,Higher education,Married,House / apartment,1,1,0,Unknown,2,27.208761122518823,0,2.702258726899384,69250.0
+M,Y,Y,0,525500.0,State servant,Secondary / secondary special,Married,Municipal apartment,0,1,0,Unknown,2,42.79808350444901,0,8.24640657084189,262750.0
+F,N,N,0,300500.0,Pensioner,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,2,24.479123887748116,1,0.0,150250.0
+F,N,Y,3,91000.0,Commercial associate,Higher education,Widow,House / apartment,0,0,0,Laborers,4,42.483230663928815,0,9.267624914442163,22750.0
+F,N,Y,0,108000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,2,31.849418206707735,0,3.162217659137577,54000.0
+M,Y,N,0,173000.0,Pensioner,Secondary / secondary special,Married,House / apartment,0,0,1,Unknown,2,59.854893908282,1,0.0,86500.0
+M,Y,Y,0,166500.0,Working,Secondary / secondary special,Single / not married,House / apartment,0,0,0,Unknown,1,50.84462696783025,0,17.43189596167009,166500.0
+M,Y,Y,0,110500.0,Pensioner,Secondary / secondary special,Single / not married,House / apartment,1,0,0,Unknown,1,40.71184120465435,1,0.0,110500.0
+M,Y,Y,0,177500.0,Working,Secondary / secondary special,Civil marriage,With parents,0,0,0,Laborers,2,34.483230663928815,0,10.439425051334702,88750.0
+M,N,N,0,92000.0,Working,Higher education,Single / not married,House / apartment,1,1,0,Laborers,1,49.16632443531827,0,26.439425051334702,92000.0
+F,Y,Y,2,245500.0,Working,Higher education,Married,House / apartment,0,0,0,Laborers,4,65.70020533880904,0,3.0663928815879533,61375.0
+F,N,Y,0,271500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,0,1,Sales staff,2,45.17453798767967,0,24.10677618069815,135750.0
+M,Y,Y,1,169500.0,Working,Secondary / secondary special,Married,House / apartment,0,1,0,Managers,3,53.1170431211499,0,3.6550308008213555,56500.0
+F,N,N,0,152500.0,Working,Higher education,Married,House / apartment,0,1,0,Sales staff,2,42.33538672142368,0,21.49760438056126,76250.0
+M,N,Y,0,266500.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,2,40.002737850787135,0,13.492128678986996,133250.0
+F,N,Y,1,302000.0,Working,Secondary / secondary special,Married,House / apartment,0,1,0,Drivers,3,26.365503080082135,0,4.832306639288158,100666.66666666667
+F,N,Y,0,99000.0,Working,Secondary / secondary special,Married,House / apartment,0,1,0,Laborers,2,41.738535249828885,0,4.492813141683778,49500.0
+F,N,Y,0,284500.0,Working,Secondary / secondary special,Single / not married,House / apartment,0,0,0,Unknown,1,24.35318275154004,0,5.924709103353867,284500.0
+F,N,Y,0,111500.0,State servant,Higher education,Married,Municipal apartment,0,0,1,Unknown,2,35.12936344969199,0,16.687200547570157,55750.0
+F,Y,Y,0,91000.0,Working,Secondary / secondary special,Married,House / apartment,0,1,0,Sales staff,2,27.460643394934976,0,5.6563997262149215,45500.0
+F,Y,Y,0,266500.0,Working,Secondary / secondary special,Married,House / apartment,1,1,0,Core staff,2,32.81587953456537,0,13.374401095140314,133250.0
+M,N,Y,0,134000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,2,31.45242984257358,0,5.83709787816564,67000.0
+F,N,Y,0,345500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,2,43.79192334017796,0,19.014373716632445,172750.0
+M,N,Y,0,132500.0,Working,Secondary / secondary special,Civil marriage,House / apartment,0,0,0,Laborers,2,42.55715263518138,0,15.964407939767282,66250.0
+F,N,Y,0,141000.0,Pensioner,Secondary / secondary special,Single / not married,House / apartment,0,0,1,Unknown,1,22.858316221765914,1,0.0,141000.0
+M,Y,Y,0,190500.0,Commercial associate,Secondary / secondary special,Widow,House / apartment,0,0,0,Laborers,1,34.776180698151954,0,12.988364134154688,190500.0
+F,N,N,1,109500.0,Working,Higher education,Married,House / apartment,1,1,0,Drivers,3,63.408624229979466,0,43.252566735112936,36500.0
+F,Y,Y,0,218500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,1,0,Medicine staff,2,64.8021902806297,0,46.75154004106776,109250.0
+F,N,Y,0,197000.0,Working,Higher education,Married,House / apartment,0,1,0,Laborers,2,52.2299794661191,0,31.241615331964407,98500.0
+M,Y,Y,0,125500.0,State servant,Higher education,Married,House / apartment,0,1,0,Laborers,2,60.03285420944559,0,15.101984941820671,62750.0
+F,Y,Y,0,144500.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,2,23.16769336071184,0,4.618754277891855,72250.0
+M,Y,Y,1,111000.0,Commercial associate,Higher education,Married,House / apartment,0,0,0,Drivers,3,29.817932922655714,0,8.843258042436688,37000.0
+F,Y,N,1,257000.0,Commercial associate,Higher education,Married,House / apartment,0,0,0,Unknown,3,60.63518138261465,0,35.09377138945928,85666.66666666667
+F,N,Y,0,73500.0,Pensioner,Secondary / secondary special,Married,House / apartment,0,1,0,Laborers,2,48.31211498973306,0,29.585215605749486,36750.0
+F,N,N,0,166500.0,Pensioner,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,2,33.89185489390828,1,0.0,83250.0
+F,N,Y,0,129500.0,Working,Higher education,Married,House / apartment,0,0,0,Managers,2,36.3066392881588,0,11.173169062286105,64750.0
+M,N,Y,0,86500.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Laborers,2,35.854893908282,0,14.414784394250514,43250.0
+F,N,Y,2,72500.0,Working,Higher education,Married,House / apartment,1,0,0,Core staff,4,54.19301848049281,0,28.862422997946613,18125.0
+F,N,Y,1,326500.0,Working,Secondary / secondary special,Single / not married,House / apartment,0,0,0,High skill tech staff,2,21.420944558521562,0,2.351813826146475,163250.0
+F,N,Y,2,107500.0,Pensioner,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,4,39.7700205338809,1,0.0,26875.0
+F,N,N,1,385000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,0,0,Drivers,3,56.11225188227242,0,24.91170431211499,128333.33333333333
+F,N,Y,0,168500.0,Working,Higher education,Single / not married,House / apartment,0,0,0,Unknown,1,65.38535249828884,0,11.091033538672143,168500.0
+F,N,N,0,464000.0,Pensioner,Secondary / secondary special,Single / not married,With parents,0,1,0,Unknown,1,64.48186173853524,1,0.0,464000.0
+F,N,Y,1,275500.0,State servant,Secondary / secondary special,Married,House / apartment,1,0,0,Sales staff,3,33.95756331279945,0,6.839151266255989,91833.33333333333
+M,Y,Y,0,246500.0,Working,Higher education,Married,House / apartment,1,0,0,Laborers,2,26.2943189596167,0,7.9780971937029435,123250.0
+F,Y,N,0,111500.0,State servant,Incomplete higher,Married,House / apartment,1,0,0,Core staff,2,40.68993839835729,0,11.529089664613279,55750.0
+M,N,Y,0,220500.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Sales staff,2,23.085557837097877,0,1.1718001368925393,110250.0
+F,N,Y,0,176500.0,Pensioner,Secondary / secondary special,Single / not married,With parents,0,1,1,Unknown,1,31.496235455167692,1,0.0,176500.0
+F,N,Y,0,176500.0,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,0,0,0,Laborers,2,33.83436002737851,0,12.91170431211499,88250.0
+F,Y,N,2,166500.0,Commercial associate,Secondary / secondary special,Married,With parents,0,1,0,Accountants,4,23.509924709103355,0,4.331279945242985,41625.0
+M,N,N,0,229500.0,Pensioner,Secondary / secondary special,Married,House / apartment,0,1,0,Unknown,2,50.98425735797399,1,0.0,114750.0
+F,N,Y,1,269500.0,Working,Secondary / secondary special,Married,House / apartment,1,0,0,Core staff,3,29.045859000684462,0,3.6386036960985626,89833.33333333333
+F,Y,Y,0,164500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,2,24.380561259411362,0,1.08145106091718,82250.0
+F,N,Y,2,474000.0,Pensioner,Secondary / secondary special,Married,House / apartment,0,1,1,Unknown,4,28.087611225188226,1,0.0,118500.0
+M,N,Y,2,196500.0,Working,Higher education,Married,House / apartment,0,1,0,Cleaning staff,4,52.27378507871321,0,21.776865160848732,49125.0
+F,N,Y,0,285500.0,State servant,Higher education,Married,Co-op apartment,1,0,0,Unknown,2,62.507871321013006,0,29.492128678986994,142750.0
+F,Y,Y,0,131000.0,Working,Secondary / secondary special,Married,With parents,0,0,0,Secretaries,2,22.409308692676248,0,4.312114989733059,65500.0
+F,Y,Y,0,107000.0,Working,Secondary / secondary special,Married,House / apartment,0,1,0,Medicine staff,2,54.66392881587954,0,23.66050650239562,53500.0
+M,N,Y,1,283500.0,Working,Secondary / secondary special,Married,House / apartment,1,0,0,Sales staff,3,65.94661190965093,0,2.8747433264887063,94500.0
+F,N,N,2,70500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,0,1,Drivers,4,39.90417522245038,0,7.638603696098563,17625.0
+M,N,N,0,154000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Laborers,2,23.972621492128678,0,5.626283367556468,77000.0
+F,Y,N,0,124000.0,Pensioner,Secondary / secondary special,Married,House / apartment,1,0,0,Unknown,2,35.493497604380565,1,0.0,62000.0
+F,N,Y,1,139000.0,Pensioner,Higher education,Married,House / apartment,1,0,0,Unknown,3,22.702258726899384,1,0.0,46333.333333333336
+F,Y,N,0,235500.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,1,0,0,Unknown,1,61.91101984941821,0,39.05270362765229,235500.0
+M,Y,Y,0,295000.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,1,0,0,Unknown,1,26.650239561943874,0,8.517453798767967,295000.0
+F,N,Y,1,241500.0,Working,Incomplete higher,Married,House / apartment,0,1,0,Sales staff,3,30.94866529774127,0,9.919233401779604,80500.0
+F,N,Y,1,93000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Drivers,3,40.62149212867899,0,14.168377823408624,31000.0
+F,N,Y,0,94000.0,Working,Higher education,Married,House / apartment,0,1,0,Laborers,2,59.879534565366185,0,16.594113620807665,47000.0
+M,Y,Y,0,109000.0,Working,Secondary / secondary special,Civil marriage,House / apartment,0,0,0,Laborers,2,45.49486652977413,0,25.97946611909651,54500.0
+M,N,Y,0,105500.0,Working,Higher education,Widow,House / apartment,0,0,0,Unknown,1,32.51471594798083,0,14.264202600958248,105500.0
+M,Y,Y,0,145000.0,Working,Incomplete higher,Married,House / apartment,1,0,0,Managers,2,32.35044490075291,0,3.0965092402464065,72500.0
+M,N,N,1,139500.0,Working,Higher education,Married,House / apartment,0,0,0,Managers,3,42.85557837097878,0,6.650239561943874,46500.0
+F,N,N,0,167000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Managers,2,58.26694045174538,0,22.05612594113621,83500.0
+F,N,N,0,115500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,0,1,Core staff,2,63.671457905544145,0,17.73305954825462,57750.0
+F,N,Y,0,96500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,2,41.412731006160165,0,13.73305954825462,48250.0
+F,N,Y,0,289500.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,0,1,0,Accountants,1,25.401779603011637,0,1.0951403148528405,289500.0
+F,N,Y,2,303500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,0,0,Managers,4,39.98631074606434,0,16.421629021218344,75875.0
+F,Y,Y,0,201500.0,State servant,Higher education,Married,House / apartment,0,0,0,Private service staff,2,64.57221081451061,0,11.663244353182751,100750.0
+M,N,Y,0,118000.0,Working,Higher education,Separated,House / apartment,0,0,0,Sales staff,1,37.56331279945243,0,2.4941820670773445,118000.0
+M,Y,Y,0,315000.0,State servant,Secondary / secondary special,Married,House / apartment,0,0,0,Medicine staff,2,48.86242299794661,0,10.699520876112253,157500.0
+F,N,Y,1,279000.0,Working,Secondary / secondary special,Single / not married,House / apartment,0,0,1,High skill tech staff,2,59.841204654346335,0,19.381245722108144,139500.0
+M,N,N,2,147500.0,Working,Higher education,Married,House / apartment,1,0,0,Drivers,4,50.70773442847365,0,1.1690622861054072,36875.0
+F,Y,N,0,235500.0,Working,Secondary / secondary special,Civil marriage,House / apartment,1,0,0,Core staff,2,53.97946611909651,0,35.15947980835045,117750.0
+M,N,N,0,257000.0,Pensioner,Secondary / secondary special,Married,House / apartment,0,1,0,Unknown,2,63.58110882956879,1,0.0,128500.0
+F,Y,Y,0,92000.0,Commercial associate,Higher education,Married,House / apartment,0,0,0,Sales staff,2,49.84804928131417,0,24.99110198494182,46000.0
+F,Y,Y,1,100500.0,State servant,Higher education,Married,House / apartment,0,0,0,Unknown,3,36.48459958932238,0,16.281998631074607,33500.0
+F,Y,Y,0,229500.0,Working,Secondary / secondary special,Married,Office apartment,1,0,0,Unknown,2,61.76317590691308,0,33.14715947980835,114750.0
+M,N,Y,1,199500.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Drivers,3,31.014373716632445,0,4.955509924709103,66500.0
+M,Y,Y,0,400000.0,Commercial associate,Secondary / secondary special,Separated,House / apartment,0,0,0,Drivers,1,67.86310746064339,0,29.111567419575632,400000.0
+F,Y,Y,0,55000.0,Working,Higher education,Married,House / apartment,0,0,0,Managers,2,59.22518822724162,0,39.37850787132101,27500.0
+F,Y,Y,0,162000.0,Working,Secondary / secondary special,Single / not married,House / apartment,0,0,0,Drivers,1,64.33401779603011,0,20.10403832991102,162000.0
+M,Y,Y,0,291000.0,State servant,Secondary / secondary special,Married,House / apartment,0,0,0,Laborers,2,30.937713894592743,0,11.000684462696784,145500.0
+M,N,Y,0,677500.0,Working,Higher education,Married,House / apartment,0,1,0,Unknown,2,36.41615331964408,0,12.451745379876797,338750.0
+F,Y,Y,2,215000.0,Commercial associate,Secondary / secondary special,Married,Municipal apartment,1,1,0,Laborers,4,22.455852156057496,0,2.4695414099931554,53750.0
+F,Y,Y,1,86500.0,Working,Secondary / secondary special,Widow,House / apartment,0,1,0,Unknown,2,22.62012320328542,0,0.5119780971937029,43250.0
+F,Y,Y,0,196000.0,State servant,Secondary / secondary special,Married,House / apartment,0,1,0,Laborers,2,41.43189596167009,0,11.800136892539356,98000.0
+F,Y,N,0,179000.0,Working,Secondary / secondary special,Widow,House / apartment,0,0,0,Unknown,1,42.23134839151266,0,5.171800136892539,179000.0
+F,N,N,1,226500.0,Pensioner,Higher education,Married,House / apartment,0,0,0,Unknown,3,51.3429158110883,1,0.0,75500.0
+F,N,Y,0,313500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,1,0,Cooking staff,2,50.35728952772074,0,4.347707049965777,156750.0
+M,N,Y,0,178500.0,Working,Secondary / secondary special,Civil marriage,House / apartment,0,1,0,High skill tech staff,2,50.143737166324435,0,24.396988364134156,89250.0
+F,Y,Y,1,176500.0,Pensioner,Higher education,Separated,Office apartment,0,0,0,Unknown,2,36.22724161533196,1,0.0,88250.0
+M,N,Y,0,201500.0,State servant,Higher education,Married,House / apartment,0,0,0,Laborers,2,42.639288158795345,0,22.06160164271047,100750.0
+M,N,Y,0,141500.0,State servant,Secondary / secondary special,Married,House / apartment,1,0,0,Unknown,2,53.8590006844627,0,26.340862422997947,70750.0
+F,N,N,0,315000.0,Pensioner,Secondary / secondary special,Married,With parents,0,0,0,Unknown,2,46.85010266940452,1,0.0,157500.0
+F,N,Y,0,257500.0,Working,Secondary / secondary special,Married,With parents,1,0,0,Sales staff,2,59.214236824093085,0,21.585215605749486,128750.0
+F,Y,Y,0,90500.0,Pensioner,Secondary / secondary special,Civil marriage,House / apartment,0,0,0,Unknown,2,25.415468856947296,1,0.0,45250.0
+F,Y,Y,1,239000.0,Pensioner,Secondary / secondary special,Married,House / apartment,1,1,0,Unknown,3,42.053388090349074,1,0.0,79666.66666666667
+F,N,Y,1,75000.0,Student,Secondary / secondary special,Married,House / apartment,1,0,0,Unknown,3,24.27104722792608,0,2.2505133470225873,25000.0
+M,Y,Y,0,173500.0,Working,Secondary / secondary special,Widow,House / apartment,0,1,0,Unknown,1,63.17316906228611,0,16.39425051334702,173500.0
+F,Y,N,0,105000.0,Commercial associate,Higher education,Married,House / apartment,0,0,0,Core staff,2,52.01916495550992,0,10.622861054072553,52500.0
+M,N,N,0,133000.0,Commercial associate,Secondary / secondary special,Married,Office apartment,0,1,0,Core staff,2,51.436002737850785,0,33.1170431211499,66500.0
+F,Y,Y,0,95000.0,Pensioner,Higher education,Married,House / apartment,0,0,0,Unknown,2,67.87405886379193,1,0.0,47500.0
+M,N,N,1,161500.0,Working,Secondary / secondary special,Married,Office apartment,0,0,0,Unknown,3,36.30116358658453,0,3.0417522245037647,53833.333333333336
+F,N,Y,1,221500.0,State servant,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,3,63.24709103353867,0,30.576317590691307,73833.33333333333
+M,Y,N,1,203500.0,Working,Higher education,Married,House / apartment,0,0,0,Core staff,3,53.002053388090346,0,30.272416153319643,67833.33333333333
+M,N,Y,1,65500.0,Working,Secondary / secondary special,Married,House / apartment,0,1,0,Sales staff,3,34.04243668720055,0,14.099931553730322,21833.333333333332
+F,N,Y,0,112000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,0,0,Laborers,2,33.71663244353183,0,2.0396988364134154,56000.0
+F,N,N,1,389000.0,Working,Secondary / secondary special,Married,House / apartment,0,1,0,Drivers,3,57.34154688569473,0,25.429158110882955,129666.66666666667
+M,N,Y,2,120500.0,Pensioner,Secondary / secondary special,Civil marriage,House / apartment,1,0,0,Unknown,4,39.65503080082136,0,5.242984257357974,30125.0
+M,N,Y,0,255500.0,Working,Secondary / secondary special,Civil marriage,House / apartment,1,1,0,Core staff,2,53.78781656399726,0,34.458590006844624,127750.0
+M,N,Y,0,138000.0,Working,Secondary / secondary special,Married,House / apartment,0,1,0,Managers,2,31.548254620123203,0,8.777549623545516,69000.0
+F,Y,Y,0,215000.0,Working,Secondary / secondary special,Married,With parents,1,1,0,Laborers,2,59.73442847364819,0,15.121149897330595,107500.0
+F,Y,Y,1,218500.0,Working,Secondary / secondary special,Separated,House / apartment,1,1,0,Unknown,2,50.469541409993155,0,28.761122518822724,109250.0
+F,N,N,1,128500.0,Working,Secondary / secondary special,Married,House / apartment,0,1,0,Unknown,3,36.766598220396986,0,8.366872005475702,42833.333333333336
+M,Y,Y,2,142500.0,State servant,Incomplete higher,Married,House / apartment,1,0,1,Core staff,4,60.37782340862423,0,29.207392197125255,35625.0
+F,Y,N,1,146000.0,Pensioner,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,3,37.06502395619439,1,0.0,48666.666666666664
+F,N,Y,0,191000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,1,1,0,Unknown,2,24.27652292950034,0,0.7227926078028748,95500.0
+F,N,N,1,207500.0,Working,Secondary / secondary special,Civil marriage,House / apartment,0,0,0,Laborers,3,59.13757700205339,0,34.677618069815196,69166.66666666667
+M,N,N,0,184000.0,State servant,Higher education,Civil marriage,House / apartment,0,1,0,Sales staff,2,39.53730321697468,0,17.56605065023956,92000.0
+M,N,N,0,200500.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,2,47.096509240246405,0,6.899383983572895,100250.0
+F,Y,N,1,123000.0,Working,Secondary / secondary special,Married,House / apartment,1,0,0,Managers,3,67.74537987679672,0,19.690622861054074,41000.0
+F,Y,Y,0,162000.0,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,0,0,0,Cooking staff,2,63.832991101984945,0,15.737166324435318,81000.0
+F,N,Y,1,70500.0,Pensioner,Secondary / secondary special,Married,House / apartment,1,0,0,Unknown,3,58.5160848733744,1,0.0,23500.0
+F,Y,Y,0,93500.0,Commercial associate,Secondary / secondary special,Separated,House / apartment,0,1,0,Sales staff,1,52.06023271731691,0,25.661875427789184,93500.0
+M,Y,Y,0,189000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,1,0,0,Cleaning staff,2,45.65366187542779,0,19.87953456536619,94500.0
+F,N,Y,1,308000.0,State servant,Secondary / secondary special,Married,House / apartment,0,0,0,Laborers,3,61.02943189596167,0,12.870636550308008,102666.66666666667
+M,Y,Y,0,140500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,0,0,Sales staff,2,60.03285420944559,0,25.073237508555785,70250.0
+F,Y,N,0,201000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,1,0,Laborers,2,47.37850787132101,0,21.49486652977413,100500.0
+F,N,Y,0,201000.0,Working,Higher education,Married,House / apartment,0,0,0,Managers,2,52.865160848733744,0,14.124572210814511,100500.0
+F,Y,N,0,157000.0,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,0,1,0,Security staff,2,36.695414099931554,0,17.125256673511295,78500.0
+M,N,Y,0,167000.0,Pensioner,Secondary / secondary special,Married,House / apartment,0,1,0,Unknown,2,26.759753593429156,0,6.392881587953457,83500.0
+M,N,Y,0,236000.0,Working,Secondary / secondary special,Civil marriage,House / apartment,0,0,0,Unknown,2,47.86858316221766,0,27.189596167008897,118000.0
+F,N,Y,0,267500.0,Working,Secondary / secondary special,Married,With parents,0,0,1,Laborers,2,31.87953456536619,0,6.403832991101985,133750.0
+F,N,N,1,265500.0,Pensioner,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,3,67.99726214921287,1,0.0,88500.0
+F,Y,Y,1,365000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Core staff,3,34.25051334702259,0,12.602327173169062,121666.66666666667
+F,N,Y,0,333000.0,Working,Secondary / secondary special,Single / not married,House / apartment,1,0,0,Managers,1,59.175906913073234,0,4.777549623545517,333000.0
+F,Y,Y,3,207000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Core staff,5,62.20123203285421,0,6.973305954825462,41400.0
+M,Y,Y,2,124500.0,Commercial associate,Higher education,Civil marriage,House / apartment,0,0,0,Unknown,4,62.72142368240931,0,8.681724845995893,31125.0
+F,N,Y,1,112000.0,Working,Secondary / secondary special,Widow,House / apartment,0,1,0,Core staff,2,50.45311430527036,0,17.084188911704313,56000.0
+M,N,N,0,184500.0,State servant,Secondary / secondary special,Married,House / apartment,0,0,1,Unknown,2,43.950718685831625,0,1.9904175222450375,92250.0
+F,N,Y,0,129000.0,Working,Secondary / secondary special,Married,House / apartment,0,1,0,Managers,2,47.214236824093085,0,3.6249144421629023,64500.0
+M,Y,Y,0,133000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,1,0,0,Core staff,2,67.564681724846,0,31.225188227241617,66500.0
+M,N,Y,0,152000.0,Pensioner,Secondary / secondary special,Married,With parents,0,1,0,Unknown,2,54.98699520876112,1,0.0,76000.0
+F,Y,Y,0,102000.0,Working,Secondary / secondary special,Married,House / apartment,0,1,0,Laborers,2,30.5927446954141,0,2.809034907597536,51000.0
+F,Y,N,0,110000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,0,0,Laborers,2,46.58179329226557,0,13.30321697467488,55000.0
+F,N,Y,1,108000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Sales staff,3,26.795345653661876,0,1.4647501711156743,36000.0
+F,Y,Y,4,170500.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,6,64.81587953456537,0,5.174537987679671,28416.666666666668
+F,N,N,0,431500.0,State servant,Secondary / secondary special,Single / not married,House / apartment,0,0,0,Unknown,1,42.76522929500342,0,8.19438740588638,431500.0
+M,Y,N,0,93000.0,Working,Higher education,Married,House / apartment,0,0,1,Laborers,2,26.116358658453116,0,0.2272416153319644,46500.0
+M,N,Y,1,124500.0,Working,Higher education,Civil marriage,House / apartment,0,0,1,Drivers,3,58.5927446954141,0,20.0684462696783,41500.0
+F,Y,Y,0,104500.0,Commercial associate,Higher education,Single / not married,House / apartment,0,0,1,Unknown,1,63.80835044490075,0,6.962354551676934,104500.0
+F,Y,Y,0,233500.0,Working,Lower secondary,Separated,House / apartment,0,0,0,Laborers,1,57.880903490759756,0,31.20602327173169,233500.0
+M,N,Y,0,162500.0,Pensioner,Secondary / secondary special,Married,House / apartment,0,0,1,Unknown,2,37.84531143052703,1,0.0,81250.0
+F,N,Y,0,115000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Managers,2,54.68856947296372,0,36.440793976728266,57500.0
+F,Y,Y,0,123500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,0,0,Drivers,2,23.991786447638603,0,2.3819301848049284,61750.0
+F,Y,N,0,181500.0,Pensioner,Higher education,Married,House / apartment,0,1,0,Unknown,2,48.46269678302532,1,0.0,90750.0
+F,Y,Y,0,89000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,2,21.746748802190282,0,1.054072553045859,44500.0
+F,N,N,0,152000.0,Working,Secondary / secondary special,Married,House / apartment,0,1,0,Core staff,2,35.90965092402464,0,4.569472963723477,76000.0
+M,N,N,1,166500.0,Working,Secondary / secondary special,Married,House / apartment,0,1,0,Sales staff,3,59.121149897330596,0,27.531827515400412,55500.0
+F,N,N,1,159000.0,Commercial associate,Higher education,Married,House / apartment,0,0,0,Accountants,3,44.6652977412731,0,1.2457221081451062,53000.0
+F,Y,Y,1,156000.0,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,0,0,0,Laborers,3,45.87542778918549,0,4.815879534565366,52000.0
+M,N,N,0,158500.0,Working,Secondary / secondary special,Married,House / apartment,0,0,1,Unknown,2,28.1533196440794,0,6.655715263518139,79250.0
+F,N,Y,0,79500.0,State servant,Secondary / secondary special,Married,House / apartment,0,0,0,Laborers,2,61.45379876796714,0,38.718685831622174,39750.0
+M,Y,N,0,160000.0,Working,Higher education,Married,House / apartment,1,1,0,Cooking staff,2,56.94729637234771,0,26.078028747433265,80000.0
+F,Y,Y,2,105500.0,Working,Secondary / secondary special,Married,House / apartment,0,1,0,Managers,4,59.70704996577687,0,2.861054072553046,26375.0
+M,N,Y,0,210500.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Core staff,2,32.681724845995895,0,11.43874058863792,105250.0
+F,N,N,0,187000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,1,1,1,Sales staff,2,45.719370294318956,0,4.936344969199179,93500.0
+M,N,Y,0,110000.0,Working,Secondary / secondary special,Married,Municipal apartment,0,0,0,Managers,2,29.73579739904175,0,0.6981519507186859,55000.0
+F,N,Y,2,217000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,1,0,0,Laborers,4,21.815195071868583,0,2.5708418891170433,54250.0
+F,N,Y,0,361500.0,Commercial associate,Higher education,Married,House / apartment,0,0,0,High skill tech staff,2,50.35728952772074,0,21.144421629021217,180750.0
+F,N,Y,0,60500.0,Working,Secondary / secondary special,Married,House / apartment,0,1,1,Laborers,2,27.865845311430526,0,4.758384668035592,30250.0
+M,Y,Y,0,63000.0,Working,Secondary / secondary special,Married,House / apartment,0,1,0,Managers,2,58.08350444900753,0,9.163586584531142,31500.0
+M,N,N,0,158500.0,Pensioner,Higher education,Single / not married,House / apartment,0,1,1,Unknown,1,46.444900752908964,1,0.0,158500.0
+M,N,N,0,191000.0,Pensioner,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,2,36.75564681724846,1,0.0,95500.0
+F,N,Y,0,125000.0,Pensioner,Secondary / secondary special,Civil marriage,House / apartment,0,0,0,Unknown,2,38.945927446954144,1,0.0,62500.0
+M,N,Y,0,148000.0,Working,Secondary / secondary special,Married,Rented apartment,0,1,0,Medicine staff,2,63.15126625598905,0,13.571526351813826,74000.0
+F,N,N,0,253500.0,Working,Secondary / secondary special,Married,House / apartment,0,1,0,Core staff,2,61.72758384668035,0,16.358658453114305,126750.0
+F,Y,Y,0,49000.0,Pensioner,Secondary / secondary special,Married,House / apartment,0,0,0,Accountants,2,61.49486652977413,0,4.741957563312799,24500.0
+F,Y,Y,0,368000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,1,1,0,Sales staff,2,42.27789185489391,0,2.5023956194387407,184000.0
+F,N,N,0,344500.0,Working,Higher education,Married,House / apartment,0,1,0,Drivers,2,47.98904859685147,0,27.797399041752225,172250.0
+F,N,Y,0,266000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Laborers,2,22.702258726899384,0,2.8062970568104038,133000.0
+F,Y,Y,0,124500.0,Pensioner,Secondary / secondary special,Single / not married,House / apartment,0,1,0,Unknown,1,30.17932922655715,1,0.0,124500.0
+F,N,N,0,90000.0,Working,Higher education,Married,With parents,0,1,0,Core staff,2,56.14236824093087,0,33.713894592744694,45000.0
+M,N,Y,0,100500.0,Working,Higher education,Married,House / apartment,0,0,0,Managers,2,35.47707049965777,0,9.462012320328542,50250.0
+F,N,Y,0,549000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,0,0,High skill tech staff,2,24.416153319644078,0,2.4531143052703626,274500.0
+F,Y,N,0,140000.0,Working,Secondary / secondary special,Married,House / apartment,1,1,0,Unknown,2,39.474332648870636,0,7.3319644079397674,70000.0
+F,Y,Y,0,101500.0,Working,Secondary / secondary special,Married,House / apartment,1,0,0,Sales staff,2,30.94318959616701,0,12.459958932238193,50750.0
+M,N,N,0,126000.0,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,0,1,0,Laborers,2,47.167693360711844,0,6.154688569472964,63000.0
+M,N,Y,0,71500.0,State servant,Secondary / secondary special,Single / not married,House / apartment,0,1,0,Unknown,1,58.90485968514716,0,38.105407255304584,71500.0
+F,N,N,1,206000.0,Working,Secondary / secondary special,Married,House / apartment,1,0,1,Core staff,3,25.587953456536617,0,2.43668720054757,68666.66666666667
+M,N,Y,1,202500.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,3,51.35386721423682,0,22.324435318275153,67500.0
+M,Y,N,0,102000.0,Commercial associate,Secondary / secondary special,Married,Municipal apartment,0,0,0,High skill tech staff,2,29.045859000684462,0,10.28062970568104,51000.0
+F,N,Y,2,231000.0,Working,Lower secondary,Married,House / apartment,0,0,0,Managers,4,60.56673511293634,0,14.702258726899384,57750.0
+M,Y,N,0,140000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Drivers,2,52.11772758384668,0,21.023956194387406,70000.0
+F,Y,Y,0,100000.0,State servant,Higher education,Single / not married,House / apartment,0,0,0,Laborers,1,52.695414099931554,0,6.954140999315538,100000.0
+F,N,Y,1,118000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,1,0,Unknown,3,57.946611909650926,0,10.754277891854894,39333.333333333336
+F,N,Y,0,146500.0,State servant,Higher education,Married,House / apartment,0,0,0,Unknown,2,64.88980150581793,0,30.72416153319644,73250.0
+F,N,Y,0,135000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,2,67.65503080082135,0,39.488021902806295,67500.0
+M,Y,Y,0,119000.0,State servant,Secondary / secondary special,Married,With parents,0,1,1,Unknown,2,48.51745379876797,0,14.001368925393566,59500.0
+M,N,Y,0,101000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Cleaning staff,2,65.39630390143738,0,24.314852840520192,50500.0
+M,N,Y,0,264500.0,Pensioner,Higher education,Married,With parents,0,1,0,Unknown,2,54.195756331279945,1,0.0,132250.0
+M,Y,Y,1,337500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,0,0,Laborers,3,67.75906913073237,0,23.394934976043807,112500.0
+M,N,Y,0,152500.0,Working,Secondary / secondary special,Married,House / apartment,0,1,0,Cooking staff,2,57.45653661875428,0,20.93908281998631,76250.0
+F,N,Y,0,124000.0,Working,Secondary / secondary special,Civil marriage,House / apartment,0,1,0,Drivers,2,60.84873374401095,0,30.31895961670089,62000.0
+M,N,N,0,399000.0,Working,Secondary / secondary special,Civil marriage,House / apartment,1,0,0,Accountants,2,62.85557837097878,0,25.859000684462696,199500.0
+M,N,N,0,177000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Laborers,2,37.568788501026695,0,10.072553045859001,88500.0
+F,N,Y,2,279500.0,Working,Secondary / secondary special,Married,Co-op apartment,0,1,0,Laborers,4,59.676933607118414,0,24.971937029431896,69875.0
+F,Y,Y,0,428500.0,State servant,Incomplete higher,Married,House / apartment,0,0,0,Managers,2,22.414784394250514,0,4.227241615331964,214250.0
+F,N,Y,0,197000.0,Pensioner,Secondary / secondary special,Married,House / apartment,0,0,0,Laborers,2,57.111567419575636,0,37.36892539356605,98500.0
+M,N,N,3,123500.0,Working,Higher education,Civil marriage,House / apartment,1,1,0,HR staff,5,62.965092402464066,0,0.2327173169062286,24700.0
+F,Y,Y,0,102500.0,Working,Secondary / secondary special,Married,House / apartment,0,0,1,Medicine staff,2,27.849418206707735,0,8.777549623545516,51250.0
+M,Y,Y,0,139500.0,Pensioner,Higher education,Married,House / apartment,0,1,0,Unknown,2,24.32854209445585,1,0.0,69750.0
+M,N,Y,1,126500.0,Working,Higher education,Married,House / apartment,0,0,0,Laborers,3,29.65639972621492,0,6.264202600958248,42166.666666666664
+F,Y,Y,0,106500.0,Pensioner,Higher education,Civil marriage,House / apartment,1,0,0,Unknown,2,24.922655715263517,1,0.0,53250.0
+F,Y,N,0,335500.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,2,37.08966461327858,0,2.8528405201916494,167750.0
+F,Y,Y,0,305500.0,Pensioner,Secondary / secondary special,Separated,House / apartment,0,1,0,Unknown,1,41.76043805612594,1,0.0,305500.0
+M,Y,N,0,141000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,0,0,Laborers,2,57.37713894592745,0,13.681040383299111,70500.0
+F,N,N,0,214000.0,State servant,Secondary / secondary special,Married,House / apartment,0,0,0,Laborers,2,22.809034907597535,0,2.4476386036960984,107000.0
+M,N,Y,0,97500.0,Pensioner,Higher education,Single / not married,Rented apartment,0,0,0,Unknown,1,31.874058863791923,1,0.0,97500.0
+F,N,Y,0,250000.0,Pensioner,Secondary / secondary special,Married,House / apartment,0,1,0,Unknown,2,60.05201916495551,1,0.0,125000.0
+F,Y,Y,0,207000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,0,0,Drivers,2,51.728952772073924,0,33.08418891170431,103500.0
+M,Y,Y,0,144500.0,State servant,Secondary / secondary special,Married,House / apartment,0,1,0,Unknown,2,54.86652977412731,0,18.439425051334702,72250.0
+M,N,Y,0,307500.0,State servant,Higher education,Single / not married,House / apartment,0,0,1,Managers,1,43.07460643394935,0,19.085557837097877,307500.0
+F,Y,N,0,206000.0,Working,Higher education,Single / not married,House / apartment,1,0,0,Laborers,1,59.290896646132786,0,14.343600273785079,206000.0
+F,N,Y,0,173500.0,Working,Secondary / secondary special,Civil marriage,House / apartment,0,1,0,Accountants,2,50.23134839151266,0,9.697467488021903,86750.0
+F,Y,Y,0,120000.0,Pensioner,Secondary / secondary special,Married,Rented apartment,0,0,0,Core staff,2,51.73716632443532,0,29.021218343600275,60000.0
+M,N,N,1,274000.0,Pensioner,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,3,44.016427104722794,1,0.0,91333.33333333333
+F,N,Y,1,141000.0,Pensioner,Secondary / secondary special,Married,House / apartment,1,0,0,Unknown,3,56.8952772073922,0,35.696098562628336,47000.0
+F,N,N,0,127500.0,State servant,Secondary / secondary special,Single / not married,House / apartment,1,1,0,High skill tech staff,1,38.496919917864474,0,11.07460643394935,127500.0
+F,N,N,0,159000.0,Working,Secondary / secondary special,Single / not married,House / apartment,1,0,1,Core staff,1,63.89048596851472,0,2.9596167008898013,159000.0
+F,N,Y,0,269000.0,State servant,Secondary / secondary special,Married,House / apartment,0,0,0,Managers,2,42.72142368240931,0,20.210814510609172,134500.0
+F,N,Y,0,133500.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Core staff,2,48.878850102669404,0,16.788501026694046,66750.0
+M,Y,Y,2,99500.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,0,0,0,Laborers,3,36.43805612594114,0,9.585215605749486,33166.666666666664
+F,N,Y,1,296500.0,Working,Secondary / secondary special,Civil marriage,Municipal apartment,0,0,0,Sales staff,3,21.590691307323752,0,1.3497604380561259,98833.33333333333
+M,Y,Y,0,139000.0,Working,Higher education,Widow,House / apartment,1,1,0,Unknown,1,44.38329911019849,0,24.44626967830253,139000.0
+M,Y,Y,0,319500.0,Pensioner,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,2,52.238193018480494,1,0.0,159750.0
+F,N,Y,0,173000.0,Commercial associate,Secondary / secondary special,Civil marriage,House / apartment,0,1,0,Managers,2,55.75085557837098,0,17.437371663244353,86500.0
+F,N,N,0,138500.0,Working,Secondary / secondary special,Separated,House / apartment,0,1,0,Unknown,1,31.690622861054074,0,10.373716632443532,138500.0
+M,Y,N,0,113000.0,Working,Secondary / secondary special,Married,Office apartment,0,0,0,Unknown,2,47.27446954140999,0,14.414784394250514,56500.0
+F,Y,Y,0,73000.0,Working,Incomplete higher,Widow,House / apartment,1,1,0,Laborers,1,61.07597535934291,0,21.52498288843258,73000.0
+M,Y,Y,0,77500.0,Working,Higher education,Married,House / apartment,0,1,0,Unknown,2,26.21492128678987,0,1.3853524982888432,38750.0
+F,Y,Y,0,104500.0,Working,Secondary / secondary special,Married,House / apartment,1,0,0,Managers,2,50.24229979466119,0,14.858316221765914,52250.0
+F,Y,Y,0,428500.0,Working,Higher education,Married,Municipal apartment,0,1,0,Core staff,2,53.39356605065024,0,34.168377823408626,214250.0
+F,N,N,1,120000.0,Working,Secondary / secondary special,Married,With parents,0,0,0,Sales staff,3,26.55441478439425,0,4.462696783025325,40000.0
+M,N,N,1,203000.0,Working,Secondary / secondary special,Married,House / apartment,1,0,1,Low-skill Laborers,3,35.526351813826146,0,7.753593429158111,67666.66666666667
+M,N,Y,0,185500.0,Working,Higher education,Married,House / apartment,0,0,0,Core staff,2,33.87268993839836,0,6.154688569472964,92750.0
+M,Y,Y,0,262000.0,Working,Higher education,Married,House / apartment,0,0,0,Cleaning staff,2,53.374401095140314,0,2.2833675564681726,131000.0
+F,Y,N,0,77500.0,Commercial associate,Higher education,Single / not married,House / apartment,0,1,0,Unknown,1,31.696098562628336,0,8.908966461327857,77500.0
+M,N,Y,0,211500.0,Pensioner,Higher education,Married,House / apartment,0,0,0,Unknown,2,51.53182751540041,1,0.0,105750.0
+F,N,Y,0,316500.0,Commercial associate,Higher education,Single / not married,House / apartment,0,0,0,Sales staff,1,23.21971252566735,0,0.7419575633127995,316500.0
+F,Y,Y,1,273000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,1,Drivers,3,47.10198494182067,0,27.422313483915126,91000.0
+F,N,Y,0,58000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,1,0,Sales staff,2,63.419575633128,0,25.76865160848734,29000.0
+M,Y,N,0,166000.0,Commercial associate,Higher education,Married,House / apartment,0,0,0,Laborers,2,31.479808350444902,0,8.761122518822724,83000.0
+F,N,Y,0,113500.0,Working,Higher education,Married,House / apartment,1,0,0,High skill tech staff,2,24.815879534565365,0,4.167008898015058,56750.0
+F,Y,Y,0,147000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,2,26.067077344284737,0,0.33401779603011633,73500.0
+M,Y,N,0,175000.0,Working,Higher education,Single / not married,House / apartment,0,1,0,Sales staff,1,41.14168377823409,0,22.600958247775495,175000.0
+F,N,Y,0,200000.0,Commercial associate,Higher education,Married,House / apartment,0,1,0,Unknown,2,36.629705681040384,0,7.285420944558521,100000.0
+F,N,N,1,130000.0,Commercial associate,Higher education,Married,House / apartment,1,1,0,Laborers,3,26.529774127310063,0,4.563997262149213,43333.333333333336
+F,N,N,0,165000.0,Commercial associate,Higher education,Married,House / apartment,0,0,0,Sales staff,2,45.82067077344285,0,0.33675564681724846,82500.0
+F,N,Y,0,325000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,2,51.6413415468857,0,24.985626283367555,162500.0
+F,N,Y,0,170000.0,Working,Higher education,Married,House / apartment,1,0,0,Drivers,2,65.12799452429843,0,10.477754962354553,85000.0
+F,N,Y,0,276500.0,Pensioner,Secondary / secondary special,Married,House / apartment,0,1,0,Unknown,2,51.79739904175222,1,0.0,138250.0
+M,N,Y,0,326000.0,Working,Secondary / secondary special,Married,House / apartment,1,0,0,Unknown,2,23.67145790554415,0,2.704996577686516,163000.0
+M,N,Y,0,81000.0,Working,Secondary / secondary special,Single / not married,House / apartment,0,1,0,Laborers,1,57.31143052703628,0,10.43668720054757,81000.0
+M,N,N,0,117500.0,Pensioner,Higher education,Married,House / apartment,0,0,0,Unknown,2,34.143737166324435,1,0.0,58750.0
+F,N,N,0,44000.0,Commercial associate,Higher education,Married,House / apartment,0,0,0,Unknown,2,22.46132785763176,0,2.2559890485968515,22000.0
+F,N,N,1,107000.0,Pensioner,Secondary / secondary special,Single / not married,House / apartment,0,1,0,Unknown,2,45.333333333333336,1,0.0,53500.0
+M,N,Y,2,78000.0,Working,Secondary / secondary special,Married,House / apartment,0,1,0,Unknown,4,36.62696783025325,0,10.699520876112253,19500.0
+M,N,Y,0,217500.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Laborers,2,45.10335386721424,0,20.27378507871321,108750.0
+M,Y,Y,0,116500.0,Commercial associate,Secondary / secondary special,Married,Office apartment,0,1,0,Accountants,2,27.520876112251884,0,1.2539356605065024,58250.0
+M,N,Y,0,74500.0,Pensioner,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,2,66.23956194387407,1,0.0,37250.0
+M,N,Y,0,181000.0,Pensioner,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,2,56.79671457905544,1,0.0,90500.0
+M,Y,Y,0,215000.0,Pensioner,Secondary / secondary special,Married,House / apartment,0,0,1,Managers,2,35.15674195756331,0,1.2566735112936345,107500.0
+F,Y,Y,0,111000.0,Working,Higher education,Single / not married,House / apartment,1,0,1,Unknown,1,55.54277891854894,0,3.980835044490075,111000.0
+F,Y,Y,0,95000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,2,45.817932922655714,0,9.634496919917865,47500.0
+F,Y,N,0,211500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,1,0,Managers,2,37.78781656399726,0,8.15605749486653,105750.0
+F,N,Y,0,306000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,1,Managers,2,34.49144421629021,0,1.73305954825462,153000.0
+F,N,N,0,152500.0,Working,Higher education,Married,House / apartment,0,1,0,Unknown,2,59.997262149212865,0,4.4106776180698155,76250.0
+M,N,N,0,96000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,0,0,Managers,2,66.68309377138947,0,7.422313483915127,48000.0
+F,N,N,0,167500.0,Working,Higher education,Separated,House / apartment,1,0,0,Core staff,1,36.34496919917864,0,2.4804928131416837,167500.0
+F,N,N,0,156000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,0,0,High skill tech staff,2,36.75564681724846,0,2.921286789869952,78000.0
+F,N,Y,0,113500.0,Working,Secondary / secondary special,Married,Office apartment,0,1,0,Laborers,2,50.30800821355236,0,11.104722792607802,56750.0
+M,N,N,0,342000.0,State servant,Secondary / secondary special,Single / not married,House / apartment,0,0,0,Drivers,1,61.01574264202601,0,20.632443531827516,342000.0
+F,N,Y,0,39500.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,0,1,0,Sales staff,1,55.85763175906913,0,15.852156057494867,39500.0
+M,N,Y,0,137000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Drivers,2,22.067077344284737,0,1.7467488021902806,68500.0
+F,N,Y,0,184000.0,Commercial associate,Higher education,Married,House / apartment,0,0,0,Medicine staff,2,40.101300479123886,0,9.930184804928132,92000.0
+F,Y,Y,1,333000.0,Commercial associate,Higher education,Single / not married,House / apartment,1,1,0,Unknown,2,50.841889117043124,0,26.171115674195757,166500.0
+F,Y,N,0,191500.0,Working,Secondary / secondary special,Married,House / apartment,1,0,0,Unknown,2,64.75838466803559,0,27.09924709103354,95750.0
+F,Y,N,0,125500.0,State servant,Secondary / secondary special,Single / not married,House / apartment,0,0,0,Unknown,1,35.29363449691992,0,8.210814510609172,125500.0
+M,Y,N,0,414000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Drivers,2,38.55715263518138,0,1.4072553045859,207000.0
+M,N,N,0,376500.0,Pensioner,Secondary / secondary special,Married,House / apartment,1,0,0,Unknown,2,53.125256673511295,1,0.0,188250.0
+M,Y,Y,0,233000.0,Pensioner,Higher education,Single / not married,House / apartment,1,1,0,Laborers,1,59.66598220396988,0,6.4750171115674195,233000.0
+F,N,N,0,170500.0,State servant,Secondary / secondary special,Married,House / apartment,0,0,1,Laborers,2,58.992470910335385,0,8.684462696783026,85250.0
+M,N,N,4,208000.0,Working,Secondary / secondary special,Separated,House / apartment,0,0,0,Drivers,5,46.65023956194388,0,26.053388090349078,41600.0
+F,N,Y,1,177000.0,Pensioner,Higher education,Married,House / apartment,0,1,0,Unknown,3,55.879534565366185,1,0.0,59000.0
+F,Y,Y,0,295000.0,Pensioner,Secondary / secondary special,Separated,House / apartment,0,0,0,Unknown,1,33.7056810403833,1,0.0,295000.0
+M,Y,Y,0,97500.0,Pensioner,Higher education,Married,House / apartment,0,0,0,Unknown,2,48.643394934976044,1,0.0,48750.0
+F,Y,Y,0,157500.0,Working,Secondary / secondary special,Separated,House / apartment,1,0,0,Core staff,1,46.13278576317591,0,28.10677618069815,157500.0
+M,N,Y,0,104000.0,Pensioner,Higher education,Married,House / apartment,1,1,0,Unknown,2,56.733744010951405,1,0.0,52000.0
+M,Y,N,0,470500.0,Pensioner,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,2,53.09514031485284,1,0.0,235250.0
+M,N,Y,2,168000.0,Working,Higher education,Married,House / apartment,0,0,0,Laborers,4,47.00342231348392,0,12.876112251882272,42000.0
+F,N,N,1,126500.0,Pensioner,Secondary / secondary special,Married,Office apartment,0,0,0,Unknown,3,38.88021902806297,1,0.0,42166.666666666664
+M,N,Y,2,281000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,0,0,Accountants,4,56.48186173853525,0,21.83709787816564,70250.0
+F,N,Y,2,179000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,0,0,Laborers,4,53.960301163586585,0,11.463381245722108,44750.0
+M,N,Y,1,180500.0,State servant,Secondary / secondary special,Widow,House / apartment,1,0,0,Core staff,2,50.25051334702259,0,20.281998631074607,90250.0
+F,Y,Y,0,599000.0,Working,Secondary / secondary special,Civil marriage,House / apartment,0,1,0,Core staff,2,41.09240246406571,0,5.0102669404517455,299500.0
+F,N,Y,0,152000.0,Working,Higher education,Civil marriage,House / apartment,0,0,0,Unknown,2,41.67556468172484,0,14.329911019849419,76000.0
+F,Y,N,0,216500.0,Working,Secondary / secondary special,Married,House / apartment,0,1,0,Unknown,2,36.427104722792606,0,2.622861054072553,108250.0
+F,Y,Y,0,279000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,2,49.64544832306639,0,9.08145106091718,139500.0
+F,Y,N,0,122500.0,Working,Secondary / secondary special,Civil marriage,House / apartment,0,1,0,Managers,2,46.13826146475017,0,19.08829568788501,61250.0
+F,N,Y,1,126500.0,State servant,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,3,42.15195071868583,0,21.429158110882955,42166.666666666664
+F,N,N,0,230000.0,Working,Secondary / secondary special,Separated,House / apartment,0,0,0,Unknown,1,55.219712525667354,0,16.347707049965777,230000.0
+F,N,Y,0,83000.0,Working,Lower secondary,Married,House / apartment,0,1,0,Drivers,2,21.87542778918549,0,2.617385352498289,41500.0
+F,Y,Y,0,272000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,2,26.962354551676935,0,6.026009582477755,136000.0
+M,N,Y,1,121500.0,Working,Higher education,Widow,House / apartment,0,0,0,Drivers,2,23.37577002053388,0,1.620807665982204,60750.0
+F,N,N,2,140000.0,State servant,Secondary / secondary special,Married,House / apartment,0,0,0,Sales staff,4,25.193702943189596,0,0.7693360711841205,35000.0
+M,N,Y,0,171500.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Laborers,2,67.13210130047912,0,1.374401095140315,85750.0
+F,Y,Y,1,108000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,1,1,0,Core staff,3,45.69472963723477,0,12.350444900752908,36000.0
+F,N,N,2,132000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,1,1,0,Laborers,4,28.98836413415469,0,7.553730321697468,33000.0
+M,N,Y,0,47500.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,2,50.08350444900753,0,27.603011635865844,23750.0
+F,Y,Y,0,192000.0,Pensioner,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,2,32.23545516769336,1,0.0,96000.0
+F,Y,Y,2,143000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,0,0,Managers,4,65.37166324435319,0,39.266255989048595,35750.0
+M,Y,Y,1,272500.0,Working,Secondary / secondary special,Married,House / apartment,0,1,0,Managers,3,23.800136892539356,0,5.716632443531828,90833.33333333333
+F,Y,Y,1,174500.0,Commercial associate,Secondary / secondary special,Married,Rented apartment,0,0,0,Drivers,3,60.2299794661191,0,40.55578370978782,58166.666666666664
+F,Y,N,0,156000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Core staff,2,39.97809719370294,0,18.8911704312115,78000.0
+F,Y,N,1,85000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Private service staff,3,32.49555099247091,0,12.41889117043121,28333.333333333332
+F,Y,Y,0,196000.0,Working,Higher education,Married,House / apartment,1,0,0,Laborers,2,55.592060232717316,0,9.1088295687885,98000.0
+F,Y,Y,1,160500.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Laborers,3,60.11225188227242,0,30.976043805612594,53500.0
+F,Y,Y,0,204500.0,Pensioner,Secondary / secondary special,Married,House / apartment,0,0,0,Managers,2,60.602327173169066,0,0.4791238877481177,102250.0
+F,N,N,2,249000.0,Working,Secondary / secondary special,Married,Municipal apartment,1,0,0,Managers,4,61.2621492128679,0,6.806297056810404,62250.0
+M,Y,N,0,250500.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Drivers,2,67.16769336071184,0,38.001368925393564,125250.0
+M,N,Y,0,125000.0,Working,Secondary / secondary special,Married,House / apartment,1,0,0,Secretaries,2,63.13210130047912,0,33.637234770705,62500.0
+F,Y,Y,0,116500.0,Working,Secondary / secondary special,Separated,House / apartment,1,0,0,Unknown,1,43.98631074606434,0,2.915811088295688,116500.0
+M,N,N,1,96000.0,Working,Secondary / secondary special,Single / not married,House / apartment,0,1,0,Drivers,2,57.229295003422315,0,21.765913757700204,48000.0
+F,N,Y,0,198500.0,Working,Secondary / secondary special,Single / not married,House / apartment,1,0,0,Laborers,1,45.87268993839836,0,20.432580424366872,198500.0
+F,N,Y,0,84000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Sales staff,2,33.667351129363446,0,12.120465434633813,42000.0
+F,N,Y,0,215500.0,Commercial associate,Secondary / secondary special,Widow,House / apartment,0,0,1,Unknown,1,21.281314168377822,0,2.455852156057495,215500.0
+M,N,Y,2,381500.0,Working,Higher education,Married,House / apartment,1,1,0,Unknown,4,41.70294318959617,0,3.8740588637919235,95375.0
+M,N,N,0,154000.0,Commercial associate,Secondary / secondary special,Married,With parents,0,0,0,Accountants,2,21.831622176591377,0,1.3086926762491444,77000.0
+F,N,Y,1,290000.0,Working,Higher education,Married,House / apartment,0,0,0,Managers,3,48.04380561259411,0,25.976728268309376,96666.66666666667
+M,N,Y,1,100000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Managers,3,54.496919917864474,0,1.538672142368241,33333.333333333336
+F,N,Y,0,126500.0,Working,Secondary / secondary special,Single / not married,House / apartment,1,0,0,Managers,1,35.501711156741955,0,10.680355920602327,126500.0
+F,Y,N,0,134500.0,Working,Secondary / secondary special,Civil marriage,House / apartment,0,0,0,Unknown,2,33.59069130732375,0,11.961670088980151,67250.0
+M,N,Y,0,171000.0,Pensioner,Secondary / secondary special,Married,House / apartment,1,0,0,Unknown,2,46.36824093086927,1,0.0,85500.0
+F,Y,Y,0,155000.0,Working,Secondary / secondary special,Married,House / apartment,1,0,0,Unknown,2,22.031485284052017,0,2.642026009582478,77500.0
+M,Y,N,1,250500.0,Pensioner,Secondary / secondary special,Widow,Rented apartment,0,0,0,Unknown,2,26.206707734428473,1,0.0,125250.0
+F,Y,N,0,175000.0,Working,Incomplete higher,Married,House / apartment,0,0,0,Unknown,2,36.982888432580424,0,3.8275154004106775,87500.0
+F,N,Y,0,190500.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,0,0,0,Unknown,1,39.20876112251882,0,13.051334702258726,190500.0
+F,N,Y,0,166500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,1,0,Drivers,2,41.87542778918549,0,3.912388774811773,83250.0
+F,N,Y,0,154000.0,Commercial associate,Higher education,Single / not married,House / apartment,0,0,0,Unknown,1,27.123887748117728,0,0.5311430527036276,154000.0
+F,Y,Y,0,138000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Laborers,2,61.040383299110196,0,21.54962354551677,69000.0
+M,N,Y,0,251500.0,State servant,Secondary / secondary special,Married,House / apartment,0,1,0,Managers,2,45.39630390143737,0,3.2881587953456535,125750.0
+M,N,N,1,141000.0,Pensioner,Secondary / secondary special,Married,With parents,0,0,0,Laborers,3,28.974674880219027,0,1.8234086242299794,47000.0
+F,N,Y,0,229000.0,Pensioner,Secondary / secondary special,Separated,House / apartment,0,1,0,Unknown,1,43.07734428473648,1,0.0,229000.0
+M,N,N,1,162500.0,Working,Secondary / secondary special,Married,House / apartment,0,1,0,HR staff,3,39.97535934291581,0,20.076659822039698,54166.666666666664
+M,Y,N,0,222000.0,Commercial associate,Secondary / secondary special,Married,With parents,0,0,0,Unknown,2,22.151950718685832,0,0.24093086926762491,111000.0
+M,N,N,0,187000.0,Working,Incomplete higher,Widow,House / apartment,0,0,0,Managers,1,23.345653661875428,0,3.578370978781656,187000.0
+M,N,Y,0,124500.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,0,0,0,Cleaning staff,1,29.817932922655714,0,3.9534565366187544,124500.0
+M,N,Y,0,116000.0,Working,Higher education,Single / not married,House / apartment,0,0,0,Laborers,1,24.23271731690623,0,2.458590006844627,116000.0
+M,N,Y,1,176500.0,Working,Secondary / secondary special,Married,House / apartment,1,0,0,Drivers,3,54.2258726899384,0,19.293634496919918,58833.333333333336
+F,N,Y,0,317000.0,State servant,Secondary / secondary special,Married,House / apartment,0,0,0,Laborers,2,38.94866529774127,0,17.023956194387406,158500.0
+M,N,Y,0,124000.0,State servant,Higher education,Separated,House / apartment,0,0,0,Unknown,1,26.806297056810404,0,1.3388090349075976,124000.0
+F,N,N,0,143000.0,Working,Secondary / secondary special,Married,House / apartment,0,1,0,Unknown,2,60.99931553730322,0,6.576317590691307,71500.0
+F,N,Y,2,114500.0,Commercial associate,Higher education,Married,House / apartment,1,1,0,Unknown,4,26.080766598220396,0,1.8672142368240932,28625.0
+F,N,Y,0,75000.0,Working,Lower secondary,Civil marriage,House / apartment,0,0,0,Unknown,2,21.60164271047228,0,0.8569472963723477,37500.0
+M,N,Y,1,273000.0,Working,Secondary / secondary special,Married,House / apartment,1,0,0,Drivers,3,31.71526351813826,0,13.442847364818617,91000.0
+M,N,Y,0,106500.0,Working,Secondary / secondary special,Civil marriage,House / apartment,1,1,0,Unknown,2,60.79123887748118,0,9.119780971937029,53250.0
+F,Y,Y,0,177500.0,Working,Higher education,Married,House / apartment,0,1,0,Core staff,2,29.01574264202601,0,8.369609856262834,88750.0
+F,N,Y,0,107500.0,Working,Secondary / secondary special,Single / not married,House / apartment,0,1,1,Sales staff,1,31.93702943189596,0,8.720054757015742,107500.0
+F,N,Y,0,339000.0,Pensioner,Secondary / secondary special,Civil marriage,House / apartment,1,0,0,Unknown,2,66.86926762491444,1,0.0,169500.0
+M,Y,Y,0,108000.0,Working,Secondary / secondary special,Married,Rented apartment,0,0,0,Drivers,2,26.704996577686515,0,2.839151266255989,54000.0
+F,N,N,2,210000.0,State servant,Secondary / secondary special,Married,House / apartment,0,0,0,Core staff,4,28.722792607802873,0,4.59958932238193,52500.0
+F,N,N,0,219000.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,0,0,0,Laborers,1,63.00068446269678,0,3.6878850102669403,219000.0
+F,Y,Y,0,146000.0,Commercial associate,Secondary / secondary special,Married,Rented apartment,0,0,0,Core staff,2,44.37782340862423,0,5.0568104038329915,73000.0
+M,N,N,0,173000.0,Working,Secondary / secondary special,Civil marriage,House / apartment,0,0,0,HR staff,2,47.690622861054074,0,1.5523613963039014,86500.0
+F,Y,Y,0,382000.0,Commercial associate,Secondary / secondary special,Married,Rented apartment,0,0,0,Core staff,2,39.14305270362765,0,14.576317590691307,191000.0
+F,N,Y,0,158500.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,2,60.9719370294319,0,32.394250513347025,79250.0
+M,N,N,0,403000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,1,1,Laborers,2,22.72416153319644,0,3.216974674880219,201500.0
+F,N,Y,0,373500.0,Pensioner,Secondary / secondary special,Married,House / apartment,0,1,0,Unknown,2,51.123887748117724,1,0.0,186750.0
+F,N,Y,2,140500.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Sales staff,4,32.525667351129364,0,9.842573579739904,35125.0
+F,N,Y,3,334000.0,Pensioner,Higher education,Married,House / apartment,0,1,0,Unknown,5,47.41409993155373,1,0.0,66800.0
+M,N,N,2,85500.0,Working,Secondary / secondary special,Married,Municipal apartment,0,0,0,Cooking staff,4,43.49075975359343,0,5.546885694729637,21375.0
+M,N,Y,0,301500.0,Pensioner,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,2,47.54277891854894,1,0.0,150750.0
+M,N,Y,0,148500.0,Pensioner,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,2,55.030800821355236,1,0.0,74250.0
+F,Y,Y,1,207000.0,Working,Secondary / secondary special,Married,House / apartment,1,0,0,Drivers,3,22.269678302532512,0,3.2580424366872007,69000.0
+F,N,Y,2,288500.0,Working,Secondary / secondary special,Separated,House / apartment,0,0,1,Laborers,3,61.73305954825462,0,25.672826830937716,96166.66666666667
+M,N,Y,2,237000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Laborers,4,22.04517453798768,0,1.0266940451745379,59250.0
+M,N,Y,0,307000.0,Working,Secondary / secondary special,Married,House / apartment,1,1,0,Unknown,2,51.15126625598905,0,29.648186173853524,153500.0
+F,N,Y,1,91500.0,Working,Higher education,Married,House / apartment,0,0,0,Laborers,3,22.581793292265573,0,1.4401095140314852,30500.0
+F,Y,Y,0,110000.0,Working,Higher education,Married,With parents,0,0,0,Sales staff,2,50.97604380561259,0,13.32785763175907,55000.0
+M,N,Y,1,173500.0,State servant,Higher education,Married,Municipal apartment,0,0,1,Unknown,3,50.31622176591376,0,23.980835044490075,57833.333333333336
+F,Y,Y,0,166000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Accountants,2,61.42368240930869,0,16.249144421629023,83000.0
+F,N,N,0,64500.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Sales staff,2,39.520876112251884,0,17.26488706365503,32250.0
+F,N,Y,0,251500.0,State servant,Higher education,Married,House / apartment,0,1,0,Accountants,2,61.021218343600275,0,14.297056810403832,125750.0
+F,Y,N,0,207500.0,Working,Secondary / secondary special,Married,House / apartment,0,1,0,Laborers,2,64.73100616016427,0,7.085557837097878,103750.0
+M,N,N,0,213500.0,Pensioner,Secondary / secondary special,Married,House / apartment,0,1,0,Unknown,2,60.3668720054757,1,0.0,106750.0
+F,Y,N,0,224500.0,Pensioner,Secondary / secondary special,Separated,House / apartment,0,0,0,Core staff,1,66.45311430527036,0,32.9637234770705,224500.0
+F,N,Y,0,166000.0,State servant,Secondary / secondary special,Single / not married,House / apartment,0,0,0,Unknown,1,65.6208076659822,0,40.602327173169066,166000.0
+F,Y,Y,0,156500.0,Commercial associate,Higher education,Married,House / apartment,0,0,0,Medicine staff,2,58.496919917864474,0,17.311430527036276,78250.0
+F,N,Y,0,330500.0,Working,Higher education,Married,House / apartment,0,1,0,Managers,2,58.60369609856263,0,36.73100616016427,165250.0
+M,N,Y,0,224500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,0,0,Laborers,2,32.323066392881586,0,14.116358658453114,112250.0
+M,Y,N,0,66000.0,Working,Higher education,Separated,Rented apartment,0,0,0,Managers,1,56.435318275154,0,23.88501026694045,66000.0
+F,N,N,0,181500.0,Working,Secondary / secondary special,Married,With parents,1,0,0,Managers,2,49.59069130732375,0,9.377138945927447,90750.0
+F,N,Y,0,150000.0,State servant,Secondary / secondary special,Single / not married,House / apartment,0,1,0,Laborers,1,63.57015742642026,0,19.16769336071184,150000.0
+M,Y,Y,0,153500.0,Working,Secondary / secondary special,Single / not married,House / apartment,1,0,0,Managers,1,25.44284736481862,0,1.78507871321013,153500.0
+F,N,N,0,168500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,0,0,Laborers,2,48.394250513347025,0,15.860369609856264,84250.0
+F,Y,N,0,186000.0,Working,Higher education,Married,House / apartment,0,1,0,Core staff,2,50.89664613278576,0,7.668720054757015,93000.0
+F,N,N,0,132000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,2,46.743326488706366,0,27.33196440793977,66000.0
+F,N,N,1,77500.0,Commercial associate,Secondary / secondary special,Widow,House / apartment,1,1,0,Laborers,2,25.796030116358658,0,5.634496919917864,38750.0
+F,N,N,0,70000.0,State servant,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,2,29.018480492813143,0,5.4072553045859,35000.0
+F,N,Y,0,413000.0,State servant,Higher education,Married,House / apartment,0,0,0,Core staff,2,22.702258726899384,0,1.7494866529774127,206500.0
+F,N,Y,3,107500.0,Commercial associate,Secondary / secondary special,Civil marriage,With parents,0,1,0,Unknown,5,63.13210130047912,0,17.741273100616016,21500.0
+M,N,Y,0,262000.0,Commercial associate,Higher education,Married,House / apartment,0,0,0,Drivers,2,23.23340177960301,0,3.5017111567419574,131000.0
+F,N,Y,0,163000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,2,62.338124572210816,0,25.401779603011637,81500.0
+M,N,Y,2,166500.0,State servant,Secondary / secondary special,Married,House / apartment,0,0,0,Managers,4,60.25462012320329,0,18.496919917864478,41625.0
+F,Y,N,0,188500.0,Pensioner,Secondary / secondary special,Single / not married,House / apartment,1,1,0,Unknown,1,27.94524298425736,1,0.0,188500.0
+M,N,Y,1,135500.0,Commercial associate,Higher education,Single / not married,House / apartment,0,0,0,Unknown,2,48.139630390143736,0,13.229295003422314,67750.0
+M,N,Y,0,215000.0,Commercial associate,Secondary / secondary special,Married,House / apartment,1,0,0,Sales staff,2,50.69404517453799,0,26.850102669404517,107500.0
+M,N,Y,0,340500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,0,0,Sales staff,2,64.63791923340177,0,31.600273785078713,170250.0
+F,N,Y,0,108500.0,Working,Secondary / secondary special,Single / not married,House / apartment,0,0,0,Laborers,1,67.34017796030116,0,10.795345653661876,108500.0
+M,Y,N,0,155000.0,Pensioner,Secondary / secondary special,Civil marriage,Municipal apartment,0,0,0,Sales staff,2,33.14715947980835,0,10.855578370978781,77500.0
+F,N,Y,0,196000.0,Working,Secondary / secondary special,Single / not married,House / apartment,0,0,0,Drivers,1,23.748117727583846,0,2.2313483915126624,196000.0
+F,N,Y,0,317000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Laborers,2,57.21834360027378,0,22.978781656399725,158500.0
+F,N,Y,0,48500.0,Pensioner,Higher education,Single / not married,House / apartment,0,0,0,Unknown,1,40.07939767282683,1,0.0,48500.0
+M,Y,Y,1,177500.0,State servant,Secondary / secondary special,Civil marriage,House / apartment,0,0,0,Unknown,3,59.09103353867214,0,22.68309377138946,59166.666666666664
+F,Y,N,1,169500.0,Working,Secondary / secondary special,Civil marriage,House / apartment,0,0,0,Unknown,3,62.614647501711154,0,17.385352498288842,56500.0
+F,N,N,0,115500.0,State servant,Secondary / secondary special,Married,House / apartment,0,0,0,Core staff,2,40.5886379192334,0,8.008213552361397,57750.0
+F,N,Y,0,112500.0,Working,Secondary / secondary special,Separated,House / apartment,0,1,0,Core staff,1,45.6974674880219,0,24.079397672826833,112500.0
+M,N,Y,0,166500.0,Working,Secondary / secondary special,Married,House / apartment,1,1,0,Unknown,2,66.08350444900753,0,4.331279945242985,83250.0
+F,N,Y,0,99500.0,State servant,Secondary / secondary special,Married,House / apartment,0,0,0,Laborers,2,51.794661190965094,0,8.53388090349076,49750.0
+F,Y,N,0,275500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,2,36.28747433264887,0,2.926762491444216,137750.0
+F,Y,Y,0,55000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,2,22.537987679671456,0,2.113620807665982,27500.0
+M,N,Y,0,267500.0,Working,Secondary / secondary special,Married,Municipal apartment,1,0,0,Laborers,2,26.90759753593429,0,0.48459958932238195,133750.0
+M,Y,N,0,201500.0,State servant,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,2,63.775496235455165,0,28.56399726214921,100750.0
+M,N,Y,0,368500.0,Pensioner,Secondary / secondary special,Civil marriage,House / apartment,0,0,0,Unknown,2,50.23956194387406,1,0.0,184250.0
+F,N,Y,1,326500.0,Working,Higher education,Married,House / apartment,0,0,1,Unknown,3,58.52977412731006,0,16.10677618069815,108833.33333333333
+F,N,N,0,231000.0,Commercial associate,Higher education,Married,House / apartment,0,0,0,Accountants,2,49.582477754962355,0,30.976043805612594,115500.0
+M,N,N,0,237000.0,Commercial associate,Higher education,Married,House / apartment,0,1,0,Laborers,2,35.865845311430526,0,4.856947296372348,118500.0
+M,Y,N,0,173500.0,Working,Secondary / secondary special,Single / not married,House / apartment,1,0,0,Core staff,1,35.46885694729637,0,6.026009582477755,173500.0
+M,N,Y,0,132000.0,Working,Higher education,Separated,House / apartment,1,1,0,Unknown,1,59.27720739219713,0,0.813141683778234,132000.0
+F,Y,Y,1,160000.0,Working,Secondary / secondary special,Married,With parents,0,0,0,Laborers,3,46.72689938398357,0,10.611909650924025,53333.333333333336
+F,N,Y,0,116000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Laborers,2,41.95756331279945,0,12.969199178644764,58000.0
+M,N,N,0,119500.0,Working,Incomplete higher,Separated,House / apartment,1,0,0,Sales staff,1,37.998631074606436,0,15.978097193702943,119500.0
+F,N,N,2,76500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,1,0,High skill tech staff,4,39.39493497604381,0,13.607118412046544,19125.0
+M,N,Y,0,57500.0,Commercial associate,Secondary / secondary special,Married,House / apartment,0,0,0,Unknown,2,62.379192334017795,0,5.620807665982204,28750.0
+M,Y,Y,2,114000.0,Commercial associate,Secondary / secondary special,Single / not married,House / apartment,0,1,0,Core staff,3,36.09034907597536,0,9.681040383299111,38000.0
+F,N,Y,2,298000.0,Working,Secondary / secondary special,Married,House / apartment,0,0,0,Core staff,4,21.286789869952088,0,1.5879534565366187,74500.0
+M,N,Y,0,131500.0,Working,Secondary / secondary special,Married,House / apartment,0,1,0,Laborers,2,49.719370294318956,0,4.093086926762491,65750.0

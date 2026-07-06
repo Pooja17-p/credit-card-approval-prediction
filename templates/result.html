@@ -1,0 +1,120 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="row justify-content-center" style="min-height: 70vh;">
+    <div class="col-lg-8">
+        <div class="card glass-panel text-white p-4">
+            <div class="card-body">
+                
+                <!-- Title Header -->
+                <div class="text-center mb-5 border-bottom border-secondary border-opacity-25 pb-4">
+                    <h1 class="fw-bold mb-1">Underwriting Decision</h1>
+                    <p class="text-secondary small mb-0">Predictive output of classifier model evaluation</p>
+                </div>
+                
+                <!-- Decision Badge -->
+                <div class="text-center mb-5">
+                    {% if result.approval_result == 1 %}
+                        <div class="result-badge-success mb-3">
+                            <i class="bi bi-check-circle-fill me-2"></i> APPROVED
+                        </div>
+                        <p class="text-success fw-semibold">Application approved based on model threshold scoring.</p>
+                    {% else %}
+                        <div class="result-badge-danger mb-3">
+                            <i class="bi bi-x-circle-fill me-2"></i> REJECTED
+                        </div>
+                        <p class="text-rose fw-semibold">Application rejected due to insufficient credit score thresholds.</p>
+                    {% endif %}
+                </div>
+
+                <!-- Metrics Grid -->
+                <div class="row g-4 mb-5">
+                    <!-- Confidence Score -->
+                    <div class="col-md-6">
+                        <div class="glass-card h-100">
+                            <h5 class="text-secondary small fw-medium mb-3">MODEL CONFIDENCE</h5>
+                            <div class="d-flex align-items-baseline mb-2">
+                                <h2 class="fw-bold mb-0 text-white">{{ result.confidence }}%</h2>
+                                <span class="text-secondary small ms-2">probability</span>
+                            </div>
+                            <div class="progress bg-dark" style="height: 8px;">
+                                <div class="progress-bar {% if result.approval_result == 1 %}bg-success{% else %}bg-danger{% endif %}" role="progressbar" style="width: {{ result.confidence }}%;" aria-valuenow="{{ result.confidence }}" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!-- Risk Category -->
+                    <div class="col-md-6">
+                        <div class="glass-card h-100">
+                            <h5 class="text-secondary small fw-medium mb-3">RISK CLASSIFICATION</h5>
+                            {% if result.risk_category == 'Low Risk' %}
+                                <div class="d-flex align-items-center">
+                                    <i class="bi bi-shield-check text-success fs-2 me-3"></i>
+                                    <div>
+                                        <h3 class="fw-bold text-success mb-0">Low Risk</h3>
+                                        <p class="text-secondary small mb-0">Underwriting thresholds fully satisfied.</p>
+                                    </div>
+                                </div>
+                            {% elif result.risk_category == 'Medium Risk' %}
+                                <div class="d-flex align-items-center">
+                                    <i class="bi bi-shield-exclamation text-warning fs-2 me-3"></i>
+                                    <div>
+                                        <h3 class="fw-bold text-warning mb-0">Medium Risk</h3>
+                                        <p class="text-secondary small mb-0">Mild parameters. Verify manually.</p>
+                                    </div>
+                                </div>
+                            {% else %}
+                                <div class="d-flex align-items-center">
+                                    <i class="bi bi-shield-slash text-rose fs-2 me-3"></i>
+                                    <div>
+                                        <h3 class="fw-bold text-rose mb-0">High Risk</h3>
+                                        <p class="text-secondary small mb-0">High probability of delinquency.</p>
+                                    </div>
+                                </div>
+                            {% endif %}
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Applicant profile summary -->
+                <div class="glass-card mb-5">
+                    <h5 class="fw-bold text-white mb-3"><i class="bi bi-person-fill text-primary me-2"></i>Applicant Assessment Context</h5>
+                    <div class="row g-3 small text-secondary">
+                        <div class="col-6 col-sm-4">
+                            <span class="d-block">Applicant Name:</span>
+                            <strong class="text-white">{{ result.applicant_name }}</strong>
+                        </div>
+                        <div class="col-6 col-sm-4">
+                            <span class="d-block">Age Profile:</span>
+                            <strong class="text-white">{{ result.age }} years</strong>
+                        </div>
+                        <div class="col-6 col-sm-4">
+                            <span class="d-block">Annual Income:</span>
+                            <strong class="text-white">${{ "{:,.2f}".format(result.income) }}</strong>
+                        </div>
+                        <div class="col-6 col-sm-4">
+                            <span class="d-block">Decision Date:</span>
+                            <strong class="text-white">{{ result.decision_date }}</strong>
+                        </div>
+                        <div class="col-6 col-sm-4">
+                            <span class="d-block">Evaluation Mode:</span>
+                            <strong class="text-white">Local Inference Pipeline</strong>
+                        </div>
+                        <div class="col-6 col-sm-4">
+                            <span class="d-block">API Sync:</span>
+                            <span class="badge bg-secondary-subtle text-secondary rounded-pill px-2">Ready</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Actions -->
+                <div class="d-flex justify-content-between gap-3">
+                    <a href="{{ url_for('predict') }}" class="btn btn-outline-secondary px-4 py-2 rounded"><i class="bi bi-arrow-left"></i> Run Another Score</a>
+                    <a href="{{ url_for('dashboard') }}" class="btn btn-primary-glass px-4 py-2"><i class="bi bi-speedometer2"></i> Go to Dashboard</a>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

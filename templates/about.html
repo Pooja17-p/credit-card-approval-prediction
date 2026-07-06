@@ -1,0 +1,147 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="row justify-content-center">
+    <div class="col-lg-10">
+        <!-- Main Card -->
+        <div class="glass-panel text-white p-5 mb-5">
+            <h1 class="fw-bold mb-3"><i class="bi bi-info-circle text-primary me-2"></i>About the Scoring Platform</h1>
+            <p class="text-secondary fs-5 mb-4">
+                An industry-standard credit risk analysis framework predicting credit card application approvals. Developed for the SmartBridge Artificial Intelligence & Machine Learning Program.
+            </p>
+            
+            <div class="row g-4 mt-2">
+                <div class="col-md-6 col-lg-3">
+                    <div class="glass-card text-center p-3">
+                        <i class="bi bi-layers text-primary fs-3 mb-2"></i>
+                        <h6 class="fw-bold mb-1">5-Layer Architecture</h6>
+                        <p class="text-secondary small mb-0">Decoupled system boundaries</p>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-3">
+                    <div class="glass-card text-center p-3">
+                        <i class="bi bi-hdd-network text-success fs-3 mb-2"></i>
+                        <h6 class="fw-bold mb-1">SQLite & Python</h6>
+                        <p class="text-secondary small mb-0">Transactional integrity</p>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-3">
+                    <div class="glass-card text-center p-3">
+                        <i class="bi bi-robot text-warning fs-3 mb-2"></i>
+                        <h6 class="fw-bold mb-1">ML Classifiers</h6>
+                        <p class="text-secondary small mb-0">Random Forest (74.60%)</p>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-3">
+                    <div class="glass-card text-center p-3">
+                        <i class="bi bi-cloud-arrow-up text-rose fs-3 mb-2"></i>
+                        <h6 class="fw-bold mb-1">Watson ML</h6>
+                        <p class="text-secondary small mb-0">Cloud deployment ready</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- 5 Layer Architecture Explanation -->
+        <div class="card glass-panel text-white p-4 mb-4">
+            <h3 class="fw-bold fs-5 mb-4 border-bottom border-secondary border-opacity-25 pb-2">
+                <i class="bi bi-diagram-3 text-primary me-2"></i>System Architecture (5-Tier Design)
+            </h3>
+            
+            <div class="accordion accordion-flush bg-transparent" id="accordionArchitecture">
+                <!-- Layer 1 -->
+                <div class="accordion-item bg-transparent text-white border-secondary border-opacity-25">
+                    <h2 class="accordion-header" id="flush-headingOne">
+                        <button class="accordion-button collapsed bg-transparent text-white fw-bold fs-6 py-3" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
+                            1. Presentation Layer (Responsive Web UI)
+                        </button>
+                    </h2>
+                    <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionArchitecture">
+                        <div class="accordion-body text-secondary small">
+                            Built with HTML5, Bootstrap 5, and customized Glassmorphic styling. This layer serves the dashboards, entry forms, flash prompts, and prediction result pages to the web client. Uses client-side JavaScript for validation and interactive visual animations.
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Layer 2 -->
+                <div class="accordion-item bg-transparent text-white border-secondary border-opacity-25">
+                    <h2 class="accordion-header" id="flush-headingTwo">
+                        <button class="accordion-button collapsed bg-transparent text-white fw-bold fs-6 py-3" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
+                            2. Application Layer (Flask Backend Controller)
+                        </button>
+                    </h2>
+                    <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionArchitecture">
+                        <div class="accordion-body text-secondary small">
+                            Powered by Python and Flask. Handles routing configurations, analyst session mappings, CSRF validations, real-time input parsing, and executes the feature preprocessing pipeline (scaling and encoding) before requesting predictions.
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Layer 3 -->
+                <div class="accordion-item bg-transparent text-white border-secondary border-opacity-25">
+                    <h2 class="accordion-header" id="flush-headingThree">
+                        <button class="accordion-button collapsed bg-transparent text-white fw-bold fs-6 py-3" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
+                            3. Machine Learning Layer (Scikit-Learn & XGBoost)
+                        </button>
+                    </h2>
+                    <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionArchitecture">
+                        <div class="accordion-body text-secondary small">
+                            Contains model training and prediction components. Uses scikit-learn standard scalers, one-hot categorical encoders, and a trained Random Forest model. Validates performance using classification reports (Accuracy, Recall, Precision, F1-Score, and ROC-AUC metrics) and confusion matrices.
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Layer 4 -->
+                <div class="accordion-item bg-transparent text-white border-secondary border-opacity-25">
+                    <h2 class="accordion-header" id="flush-headingFour">
+                        <button class="accordion-button collapsed bg-transparent text-white fw-bold fs-6 py-3" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseFour">
+                            4. Database Layer (SQLite RDBMS)
+                        </button>
+                    </h2>
+                    <div id="flush-collapseFour" class="accordion-collapse collapse" aria-labelledby="flush-headingFour" data-bs-parent="#accordionArchitecture">
+                        <div class="accordion-body text-secondary small">
+                            Relational SQLite database managing 5 normalized tables (`Users`, `Applicant_Details`, `Credit_History`, `ML_Model`, and `Approval_Prediction`). Stores user credentials securely via SHA-256 hashes, logs applicant profiles, and logs prediction history results.
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Layer 5 -->
+                <div class="accordion-item bg-transparent text-white border-secondary border-opacity-25">
+                    <h2 class="accordion-header" id="flush-headingFive">
+                        <button class="accordion-button collapsed bg-transparent text-white fw-bold fs-6 py-3" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFive" aria-expanded="false" aria-controls="flush-collapseFive">
+                            5. Deployment Layer (IBM Cloud & Watson ML)
+                        </button>
+                    </h2>
+                    <div id="flush-collapseFive" class="accordion-collapse collapse" aria-labelledby="flush-headingFive" data-bs-parent="#accordionArchitecture">
+                        <div class="accordion-body text-secondary small">
+                            Connects local applications to remote IBM Cloud resources. The local Flask app is structured to delegate scaling operations to live API endpoints hosted on IBM Watson Machine Learning using deployment credentials.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Tech Stack -->
+        <div class="card glass-panel text-white p-4">
+            <h3 class="fw-bold fs-5 mb-4 border-bottom border-secondary border-opacity-25 pb-2">
+                <i class="bi bi-stack text-primary me-2"></i>Technology Stack Details
+            </h3>
+            <div class="row g-4 small text-secondary">
+                <div class="col-md-6 col-lg-4">
+                    <strong class="text-white d-block mb-1">Frontend</strong>
+                    HTML5, CSS3 (Glassmorphism), JavaScript (ES6), Bootstrap 5, Bootstrap Icons.
+                </div>
+                <div class="col-md-6 col-lg-4">
+                    <strong class="text-white d-block mb-1">Backend Controller</strong>
+                    Python, Flask, SQLite3, Joblib (Serialization).
+                </div>
+                <div class="col-md-6 col-lg-4">
+                    <strong class="text-white d-block mb-1">Machine Learning Stack</strong>
+                    Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, Seaborn.
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+{% endblock %}
